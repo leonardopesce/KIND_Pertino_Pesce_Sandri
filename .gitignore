@@ -1,1 +1,9 @@
 ft_cbow_model.bin
+bin/
+lib/
+share/
+etc/
+pyvenv.cfg
+lib64
+
+.vscode/
