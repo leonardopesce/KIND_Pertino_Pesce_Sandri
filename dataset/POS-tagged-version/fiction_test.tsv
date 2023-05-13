@@ -1,4 +1,4 @@
-L	DET
+L'	DET
 agitazione	NOUN
 dei	ADP
 più	ADV
@@ -21,7 +21,7 @@ viaggiò	VERB
 nelle	ADP
 province	NOUN
 libere	ADJ
-dell	ADP
+dell'	ADP
 Italia	PROPN
 Settentrionale	PROPN
 per	ADP
@@ -207,7 +207,7 @@ aggiungeva	VERB
 
 «	PUNCT
 Quando	SCONJ
-l	DET
+l'	DET
 ora	NOUN
 del	ADP
 compimento	NOUN
@@ -291,12 +291,12 @@ aver	VERB
 diritto	NOUN
 di	ADP
 chiedere	VERB
-all	ADP
+all'	ADP
 Europa	PROPN
 intera	ADJ
 giustizia	NOUN
 per	ADP
-l	DET
+l'	DET
 Italia	PROPN
 .	PUNCT
 »	PUNCT
@@ -347,13 +347,13 @@ mia	DET
 morte	NOUN
 e	CCONJ
 compirete	ADJ
-l	DET
+l'	DET
 opera	NOUN
 mia	DET
 .	PUNCT
 
 Viva	VERB
-l	DET
+l'	DET
 Italia	PROPN
 !	PUNCT
 
@@ -380,7 +380,7 @@ triste	ADJ
 pagina	NOUN
 di	ADP
 questi	DET
-cinquant	NUM
+cinquant'	NUM
 anni	NOUN
 di	ADP
 storia	NOUN
@@ -404,9 +404,9 @@ varie	DET
 Potenze	NOUN
 europee	ADJ
 e	CCONJ
-perché	SCONJ
+perché	ADV
 se	SCONJ
-l	DET
+l'	DET
 impresa	NOUN
 ,	PUNCT
 non	ADV
@@ -424,7 +424,7 @@ e	CCONJ
 radicata	VERB
 in	ADP
 Roma	PROPN
-l	DET
+l'	DET
 occupazione	NOUN
 straniera	ADJ
 ,	PUNCT
@@ -435,7 +435,7 @@ a	ADP
 far	VERB
 accerchiare	VERB
 Garibaldi	PROPN
-dall	PROPN
+dall'	ADP
 esercito	NOUN
 regolare	ADJ
 ;	PUNCT
@@ -450,7 +450,7 @@ mischia	NOUN
 ,	PUNCT
 in	ADP
 cui	PRON
-l	DET
+l'	DET
 Eroe	NOUN
 fu	AUX
 ferito	VERB
@@ -538,10 +538,10 @@ odore	NOUN
 ci	PRON
 sono	VERB
 dentro	ADV
-anch	ADV
+anch'	ADV
 io	PRON
 a	ADP
-quest	DET
+quest'	DET
 odore	NOUN
 ,	PUNCT
 -	PUNCT
@@ -564,7 +564,7 @@ che	PRON
 non	ADV
 sapevo	VERB
 piú	PUNCT
-d	ADP
+d'	ADP
 avere	VERB
 addosso	ADV
 .	PUNCT
@@ -573,11 +573,11 @@ Cosí	PROPN
 mi	PRON
 piace	VERB
 uscire	VERB
-dall	ADP
+dall'	ADP
 Angelo	PROPN
 e	CCONJ
 tener	VERB
-d	ADP
+d'	ADP
 occhio	NOUN
 le	DET
 campagne	NOUN
@@ -612,8 +612,8 @@ se	SCONJ
 sono	AUX
 venuto	VERB
 a	ADP
-comprar	PROPN
-l	DET
+comprar	VERB
+l'	DET
 uva	NOUN
 o	CCONJ
 che	DET
@@ -652,13 +652,13 @@ soldi	NOUN
 .	PUNCT
 
 Magari	ADV
-c	PRON
+c'	PRON
 è	VERB
 qualche	DET
 ragazzo	NOUN
 ,	PUNCT
 servitore	NOUN
-com	PROPN
+com'	SCONJ
 io	PRON
 sono	AUX
 stato	AUX
@@ -677,7 +677,7 @@ che	PRON
 pensa	VERB
 a	ADP
 me	PRON
-com	PROPN
+com'	SCONJ
 io	PRON
 pensavo	VERB
 alle	ADP
@@ -719,10 +719,10 @@ sul	ADP
 serio	ADJ
 ,	PUNCT
 già	ADV
-diversi	DET
+diversi	ADJ
 me	PRON
-n	X
-hanno	AUX
+n'	PRON
+hanno	VERB
 offerte	NOUN
 .	PUNCT
 
@@ -809,7 +809,7 @@ concimi	NOUN
 li	PRON
 ho	AUX
 venduti	VERB
-all	ADP
+all'	ADP
 ingrosso	NOUN
 ,	PUNCT
 taglio	NOUN
@@ -834,7 +834,7 @@ beni	NOUN
 ,	PUNCT
 quando	SCONJ
 traversiamo	VERB
-un	DET
+un'	DET
 aia	NOUN
 ,	PUNCT
 visitiamo	VERB
@@ -862,7 +862,7 @@ vecchio	ADJ
 Valino	PROPN
 .	PUNCT
 
-L	PRON
+L'	PRON
 aveva	AUX
 fermato	VERB
 Nuto	PROPN
@@ -903,7 +903,7 @@ Nuto	PROPN
 gli	PRON
 disse	VERB
 ridendo	VERB
-ch	PROPN
+ch'	SCONJ
 ero	AUX
 uno	PRON
 che	PRON
@@ -941,7 +941,7 @@ se	SCONJ
 sopra	ADP
 la	DET
 stalla	NOUN
-c	PRON
+c'	PRON
 era	VERB
 sempre	ADV
 quella	DET
@@ -1056,7 +1056,7 @@ spartire	VERB
 Adesso	ADV
 il	DET
 casotto	NOUN
-l	PRON
+l'	PRON
 ha	AUX
 comprato	VERB
 la	DET
@@ -1172,7 +1172,7 @@ ripassato	VERB
 .	PUNCT
 
 Sapevo	VERB
-ch	PROPN
+ch'	SCONJ
 era	AUX
 vedovo	NOUN
 ,	PUNCT
@@ -1236,7 +1236,7 @@ pensando	VERB
 che	SCONJ
 ,	PUNCT
 se	SCONJ
-vent	NUM
+vent'	NUM
 anni	NOUN
 prima	ADV
 non	ADV
@@ -1299,7 +1299,7 @@ il	DET
 fico	NOUN
 ,	PUNCT
 davanti	ADV
-all	DET
+all'	DET
 aia	NOUN
 ,	PUNCT
 e	CCONJ
@@ -1406,7 +1406,7 @@ fico	NOUN
 un	DET
 rastrello	NOUN
 appoggiato	VERB
-all	ADP
+all'	ADP
 uscio	NOUN
 -	PUNCT
 la	DET
@@ -1417,7 +1417,7 @@ nodo	NOUN
 pendeva	VERB
 dal	ADP
 foro	NOUN
-dell	ADP
+dell'	ADP
 uscio	NOUN
 .	PUNCT
 
@@ -1438,17 +1438,17 @@ stessa	ADJ
 pianta	NOUN
 di	ADP
 rosmarino	NOUN
-sull	ADP
+sull'	ADP
 angolo	NOUN
 della	ADP
 casa	NOUN
 .	PUNCT
 
 E	CCONJ
-l	DET
+l'	DET
 odore	NOUN
 ,	PUNCT
-l	DET
+l'	DET
 odore	NOUN
 della	ADP
 casa	NOUN
@@ -1460,7 +1460,7 @@ di	ADP
 mele	NOUN
 marce	NOUN
 ,	PUNCT
-d	ADP
+d'	ADP
 erba	NOUN
 secca	ADJ
 e	CCONJ
@@ -1563,7 +1563,7 @@ aveva	VERB
 una	DET
 crosta	NOUN
 sotto	ADP
-l	DET
+l'	DET
 occhio	NOUN
 ,	PUNCT
 le	DET
@@ -1576,7 +1576,7 @@ la	DET
 gamba	NOUN
 .	PUNCT
 
-D	PROPN
+D'	ADP
 improvviso	ADJ
 mi	PRON
 ricordai	VERB
@@ -1604,7 +1604,7 @@ mettevo	VERB
 gli	DET
 zoccoli	NOUN
 soltanto	ADV
-d	ADP
+d'	ADP
 inverno	NOUN
 .	PUNCT
 
@@ -1633,7 +1633,7 @@ un	DET
 cenno	NOUN
 .	PUNCT
 
-Sull	PROPN
+Sull'	ADP
 uscio	NOUN
 era	AUX
 comparsa	VERB
@@ -1669,8 +1669,8 @@ Valino	PROPN
 .	PUNCT
 
 Non	ADV
-c	PRON
-era	AUX
+c'	PRON
+era	VERB
 ,	PUNCT
 era	AUX
 andato	VERB
@@ -1759,7 +1759,7 @@ anni	NOUN
 e	CCONJ
 vederlo	VERB
 su	ADP
-quell	DET
+quell'	DET
 aia	NOUN
 era	VERB
 come	SCONJ
@@ -1770,9 +1770,9 @@ stesso	ADJ
 
 Al	ADP
 punto	NOUN
-che	PRON
+che	SCONJ
 diedi	VERB
-un	DET
+un'	DET
 occhiata	NOUN
 sotto	ADP
 il	DET
@@ -1793,8 +1793,8 @@ Giulia	PROPN
 .	PUNCT
 
 Chi	PRON
-sa	VERB
-dov	PROPN
+sa	AUX
+dov'	ADV
 erano	VERB
 ?	PUNCT
 
@@ -1807,7 +1807,7 @@ vive	VERB
 ,	PUNCT
 dovevano	AUX
 avere	VERB
-l	DET
+l'	DET
 età	NOUN
 di	ADP
 quella	DET
@@ -1854,7 +1854,7 @@ opere	NOUN
 pubbliche	ADJ
 di	ADP
 cui	PRON
-l	DET
+l'	DET
 Italia	PROPN
 aveva	VERB
 bisogno	NOUN
@@ -1912,7 +1912,7 @@ sostenute	ADJ
 A	ADP
 questi	DET
 lavori	NOUN
-l	DET
+l'	DET
 Italia	PROPN
 ,	PUNCT
 con	ADP
@@ -1976,7 +1976,7 @@ Borgoforte	PROPN
 di	ADP
 Sestocalende	PROPN
 ,	PUNCT
-dell	ADP
+dell'	ADP
 arsenale	NOUN
 di	ADP
 Taranto	PROPN
@@ -2007,7 +2007,7 @@ Margherita	PROPN
 
 Si	PRON
 fondò	VERB
-l	DET
+l'	DET
 Arsenale	PROPN
 di	ADP
 Spezia	PROPN
@@ -2082,7 +2082,7 @@ a	ADP
 Roma	PROPN
 e	CCONJ
 quelli	PRON
-dell	ADP
+dell'	ADP
 Adige	PROPN
 a	ADP
 Verona	PROPN
@@ -2091,7 +2091,7 @@ Verona	PROPN
 Si	PRON
 compirono	VERB
 ,	PUNCT
-d	ADP
+d'	ADP
 accordo	NOUN
 con	ADP
 le	DET
@@ -2143,7 +2143,7 @@ navigazione	NOUN
 interna	ADJ
 e	CCONJ
 per	ADP
-l	DET
+l'	DET
 irrigazione	NOUN
 delle	ADP
 terre	NOUN
@@ -2173,7 +2173,7 @@ il	DET
 Po	PROPN
 aveva	AUX
 tolte	VERB
-all	ADP
+all'	ADP
 agricoltura	NOUN
 (	PUNCT
 basso	ADJ
@@ -2249,14 +2249,14 @@ privati	NOUN
 si	PRON
 fece	VERB
 tesoro	NOUN
-dell	ADP
+dell'	ADP
 abbondanza	NOUN
-d	ADP
+d'	ADP
 acque	NOUN
 ,	PUNCT
 di	ADP
 cui	PRON
-l	DET
+l'	DET
 Italia	PROPN
 è	AUX
 favorita	VERB
@@ -2315,18 +2315,18 @@ Altri	ADJ
 patrioti	NOUN
 ,	PUNCT
 che	PRON
-s	X
+s'	PRON
 erano	AUX
 illustrati	VERB
 nelle	ADP
 battaglie	NOUN
-dell	ADP
+dell'	ADP
 Indipendenza	PROPN
 ,	PUNCT
 morivano	VERB
 in	ADP
 questi	DET
-cinquant	NUM
+cinquant'	NUM
 anni	NOUN
 fra	ADP
 il	DET
@@ -2376,7 +2376,7 @@ sul	ADP
 Mincio	PROPN
 per	ADP
 coadiuvare	VERB
-l	DET
+l'	DET
 esercito	NOUN
 di	ADP
 Carlo	PROPN
@@ -2397,7 +2397,7 @@ nel	ADP
 aveva	AUX
 fondato	VERB
 ,	PUNCT
-d	ADP
+d'	ADP
 accordo	NOUN
 con	ADP
 Cavour	PROPN
@@ -2409,15 +2409,15 @@ per	ADP
 propugnare	VERB
 negli	ADP
 Italiani	NOUN
-l	DET
+l'	DET
 idea	NOUN
-d	ADP
+d'	ADP
 unirsi	VERB
 al	ADP
 Piemonte	PROPN
-onde	SCONJ
+onde	NOUN
 liberare	VERB
-l	DET
+l'	DET
 Italia	PROPN
 ,	PUNCT
 e	CCONJ
@@ -2544,7 +2544,7 @@ Stato	PROPN
 Pontificio	PROPN
 a	ADP
 ristabilir	PROPN
-l	DET
+l'	DET
 ordine	NOUN
 e	CCONJ
 a	ADP
@@ -2614,11 +2614,11 @@ immeritata	ADJ
 sconfitta	NOUN
 .	PUNCT
 
-L	DET
+L'	DET
 anno	NOUN
 seguente	ADJ
 ,	PUNCT
-l	DET
+l'	DET
 Italia	PROPN
 piangeva	VERB
 i	DET
@@ -2648,7 +2648,7 @@ nel	ADP
 1868	NUM
 ,	PUNCT
 fremeva	VERB
-d	ADP
+d'	ADP
 orrore	NOUN
 alla	ADP
 notizia	NOUN
@@ -2677,7 +2677,7 @@ per	ADP
 aver	AUX
 tentato	VERB
 ,	PUNCT
-l	DET
+l'	DET
 anno	NOUN
 prima	ADV
 ,	PUNCT
@@ -2764,7 +2764,7 @@ essi	PRON
 eran	AUX
 morti	VERB
 per	ADP
-l	DET
+l'	DET
 Italia	PROPN
 ;	PUNCT
 
@@ -2830,7 +2830,7 @@ la	DET
 persona	NOUN
 del	ADP
 Papa	PROPN
-dev	PROPN
+dev'	AUX
 essere	AUX
 sacra	ADJ
 e	CCONJ
@@ -2863,11 +2863,11 @@ di	ADP
 lire	NOUN
 a	ADP
 carico	NOUN
-dell	ADP
-Erario	ADJ
+dell'	ADP
+Erario	NOUN
 ;	PUNCT
 
-ch	PROPN
+ch'	ADV
 egli	PRON
 abbia	VERB
 il	DET
@@ -2984,7 +2984,7 @@ suolo	NOUN
 e	CCONJ
 il	DET
 nome	NOUN
-d	ADP
+d'	ADP
 Italia	PROPN
 durino	VERB
 nelle	ADP
@@ -3045,10 +3045,10 @@ critici	ADJ
 momenti	NOUN
 :	PUNCT
 
-Nell	ADP
+Nell'	ADP
 Italia	PROPN
 meridionale	ADJ
-s	PROPN
+s'	PRON
 era	AUX
 inacerbito	VERB
 il	DET
@@ -3062,7 +3062,7 @@ fuggiti	VERB
 dalle	ADP
 carceri	NOUN
 ,	PUNCT
-s	PROPN
+s'	PRON
 erano	AUX
 internati	VERB
 nelle	ADP
@@ -3072,7 +3072,7 @@ e	CCONJ
 sussidiati	VERB
 dal	ADP
 danaro	NOUN
-dell	ADP
+dell'	ADP
 ex	ADJ
 re	NOUN
 di	ADP
@@ -3111,7 +3111,7 @@ Perciò	ADV
 era	AUX
 occorso	VERB
 cominciare	VERB
-un	DET
+un'	DET
 aspra	ADJ
 lotta	NOUN
 militare	ADJ
@@ -3131,7 +3131,7 @@ nazionali	ADJ
 su	ADP
 Roma	PROPN
 ,	PUNCT
-nell	ADP
+nell'	ADP
 attitudine	NOUN
 di	ADP
 Napoleone	PROPN
@@ -3154,7 +3154,7 @@ pur	ADV
 riconoscendo	VERB
 il	DET
 Regno	PROPN
-d	ADP
+d'	ADP
 Italia	PROPN
 ,	PUNCT
 aveva	AUX
@@ -3167,7 +3167,7 @@ proteste	NOUN
 del	ADP
 Papa	PROPN
 contro	ADP
-l	DET
+l'	DET
 occupazione	NOUN
 da	ADP
 noi	PRON
@@ -3205,7 +3205,7 @@ con	ADP
 le	DET
 aspirazioni	NOUN
 nazionali	ADJ
-dell	ADP
+dell'	ADP
 Italia	PROPN
 ,	PUNCT
 spinse	VERB
@@ -3228,7 +3228,7 @@ procurare	VERB
 armi	NOUN
 ed	CCONJ
 armati	VERB
-all	ADP
+all'	ADP
 intento	NOUN
 di	ADP
 liberare	VERB
@@ -3268,7 +3268,7 @@ della	ADP
 popolazione	NOUN
 del	ADP
 Regno	PROPN
-d	ADP
+d'	ADP
 Italia	PROPN
 ,	PUNCT
 che	PRON
@@ -3304,7 +3304,7 @@ vita	NOUN
 per	ADP
 la	DET
 libertà	NOUN
-d	ADP
+d'	ADP
 Italia	PROPN
 ,	PUNCT
 che	PRON
@@ -3319,7 +3319,7 @@ gli	DET
 scritti	NOUN
 e	CCONJ
 con	ADP
-l	DET
+l'	DET
 opera	NOUN
 aveva	AUX
 infiammato	VERB
@@ -3332,7 +3332,7 @@ cooperato	VERB
 grandemente	ADV
 a	ADP
 incrementare	VERB
-l	DET
+l'	DET
 amor	NOUN
 della	ADP
 Patria	NOUN
@@ -3377,7 +3377,7 @@ moti	NOUN
 esortare	VERB
 gli	DET
 uomini	NOUN
-d	ADP
+d'	ADP
 azione	NOUN
 perchè	SCONJ
 lavorassero	VERB
@@ -3404,7 +3404,7 @@ celebri	ADJ
 lo	PRON
 uguagliarono	VERB
 per	ADP
-l	DET
+l'	DET
 altezza	NOUN
 del	ADP
 pensiero	NOUN
@@ -3412,7 +3412,7 @@ pensiero	NOUN
 del	ADP
 sentimento	NOUN
 e	CCONJ
-dell	ADP
+dell'	ADP
 amor	NOUN
 patrio	ADJ
 .	PUNCT
@@ -3435,7 +3435,7 @@ del	ADP
 1859	NUM
 ,	PUNCT
 comandante	NOUN
-d	ADP
+d'	ADP
 una	PRON
 delle	ADP
 navi	NOUN
@@ -3465,7 +3465,7 @@ nel	ADP
 ,	PUNCT
 aveva	AUX
 lasciato	VERB
-l	DET
+l'	DET
 esercito	NOUN
 per	ADP
 recarsi	VERB
@@ -3475,7 +3475,7 @@ ad	ADP
 aprire	VERB
 nuovi	ADJ
 commerci	NOUN
-all	ADP
+all'	ADP
 Italia	PROPN
 nuova	ADJ
 .	PUNCT
@@ -3516,7 +3516,7 @@ dal	ADP
 48	NUM
 combatteva	VERB
 per	ADP
-l	DET
+l'	DET
 Italia	PROPN
 .	PUNCT
 
@@ -3529,7 +3529,7 @@ grave	ADJ
 dei	ADP
 lutti	NOUN
 colpiva	VERB
-l	DET
+l'	DET
 Italia	PROPN
 :	PUNCT
 
@@ -3542,7 +3542,7 @@ II	ADJ
 ,	PUNCT
 primo	ADJ
 re	NOUN
-d	ADP
+d'	ADP
 Italia	PROPN
 .	PUNCT
 
@@ -3552,7 +3552,7 @@ trono	NOUN
 nel	ADP
 1849	NUM
 per	ADP
-l	DET
+l'	DET
 abdicazione	NOUN
 di	ADP
 C.	PROPN
@@ -3563,7 +3563,7 @@ sconfitta	NOUN
 di	ADP
 Novara	PROPN
 ,	PUNCT
-s	PROPN
+s'	PRON
 era	AUX
 dato	VERB
 a	ADP
@@ -3571,7 +3571,7 @@ riordinare	VERB
 le	DET
 finanze	NOUN
 e	CCONJ
-l	DET
+l'	DET
 esercito	NOUN
 .	PUNCT
 
@@ -3582,7 +3582,7 @@ con	ADP
 la	DET
 Francia	PROPN
 e	CCONJ
-l	DET
+l'	DET
 Inghilterra	PROPN
 ,	PUNCT
 mandava	VERB
@@ -3606,7 +3606,7 @@ riprendeva	VERB
 la	DET
 guerra	NOUN
 per	ADP
-l	DET
+l'	DET
 Indipendenza	PROPN
 italiana	ADJ
 ,	PUNCT
@@ -3618,14 +3618,14 @@ conquista	NOUN
 della	ADP
 Lombardia	PROPN
 e	CCONJ
-l	DET
+l'	DET
 annessione	NOUN
 delle	ADP
 province	NOUN
 della	ADP
 Toscana	PROPN
 e	CCONJ
-dell	ADP
+dell'	ADP
 Emilia	PROPN
 .	PUNCT
 
@@ -3655,7 +3655,7 @@ il	DET
 titolo	NOUN
 di	ADP
 Re	PROPN
-d	ADP
+d'	ADP
 Italia	PROPN
 .	PUNCT
 
@@ -3679,14 +3679,14 @@ riprendeva	VERB
 la	DET
 guerra	NOUN
 contro	ADP
-l	DET
+l'	DET
 Austria	PROPN
 nel	ADP
 1866	NUM
 e	CCONJ
 ,	PUNCT
 sebbene	SCONJ
-l	DET
+l'	DET
 esercito	NOUN
 e	CCONJ
 la	DET
@@ -3727,7 +3727,7 @@ non	ADV
 meno	ADV
 grave	ADJ
 affliggeva	VERB
-l	DET
+l'	DET
 Italia	PROPN
 nel	ADP
 1882	NUM
@@ -3739,7 +3739,7 @@ Caprera	PROPN
 Giuseppe	PROPN
 Garibaldi	PROPN
 ,	PUNCT
-l	DET
+l'	DET
 Eroe	NOUN
 gloriosissimo	ADJ
 della	ADP
@@ -3754,7 +3754,7 @@ alla	ADP
 Giovine	PROPN
 Italia	PROPN
 ,	PUNCT
-s	PROPN
+s'	PRON
 accorda	VERB
 con	ADP
 Mazzini	PROPN
@@ -3800,7 +3800,7 @@ Nel	ADP
 1842	NUM
 si	PRON
 trovava	VERB
-nell	ADP
+nell'	ADP
 Uruguay	PROPN
 a	ADP
 difenderne	VERB
@@ -3832,7 +3832,7 @@ italiani	ADJ
 ,	PUNCT
 partì	VERB
 per	ADP
-l	DET
+l'	DET
 Italia	PROPN
 ,	PUNCT
 offerse	VERB
@@ -3855,7 +3855,7 @@ gli	PRON
 affidò	VERB
 il	DET
 comando	NOUN
-d	ADP
+d'	ADP
 un	DET
 battaglione	NOUN
 .	PUNCT
@@ -3894,8 +3894,8 @@ Papa	PROPN
 era	AUX
 fuggito	VERB
 e	CCONJ
-dove	SCONJ
-s	PRON
+dove	ADV
+s'	PRON
 era	AUX
 proclamata	VERB
 la	DET
@@ -4009,7 +4009,7 @@ York	PROPN
 Nel	ADP
 1854	NUM
 tornava	VERB
-dall	ADP
+dall'	ADP
 America	PROPN
 e	CCONJ
 attendeva	VERB
@@ -4018,7 +4018,7 @@ Caprera	PROPN
 che	SCONJ
 i	DET
 fati	NOUN
-d	ADP
+d'	ADP
 Italia	PROPN
 maturassero	VERB
 .	PUNCT
@@ -4042,7 +4042,7 @@ essi	PRON
 alla	ADP
 guerra	NOUN
 contro	ADP
-l	DET
+l'	DET
 Austria	PROPN
 .	PUNCT
 
@@ -4059,13 +4059,13 @@ Varese	PROPN
 
 Tornato	VERB
 dopo	ADP
-l	DET
+l'	DET
 armistizio	NOUN
 a	ADP
 Caprera	PROPN
 ,	PUNCT
 eccolo	ADV
-l	DET
+l'	DET
 anno	NOUN
 seguente	ADJ
 (	PUNCT
@@ -4095,7 +4095,7 @@ gloriose	ADJ
 fra	ADP
 le	DET
 battaglie	NOUN
-ch	PROPN
+ch'	SCONJ
 egli	PRON
 vinse	VERB
 ,	PUNCT
@@ -4113,7 +4113,7 @@ delle	ADP
 due	NUM
 Sicilie	PROPN
 ,	PUNCT
-ch	PROPN
+ch'	SCONJ
 egli	PRON
 consegnò	VERB
 a	ADP
@@ -4193,7 +4193,7 @@ a	ADP
 Caprera	PROPN
 ,	PUNCT
 tenta	VERB
-un	DET
+un'	DET
 altra	ADJ
 spedizione	NOUN
 su	ADP
@@ -4250,7 +4250,7 @@ difesa	NOUN
 ,	PUNCT
 ed	CCONJ
 è	AUX
-l	DET
+l'	DET
 unico	ADJ
 condottiero	NOUN
 che	PRON
@@ -4287,8 +4287,8 @@ Mondi	NOUN
 e	CCONJ
 di	ADP
 Cavaliere	PROPN
-dell	ADP
-Umanità	PROPN
+dell'	ADP
+Umanità	NOUN
 .	PUNCT
 
 –	PUNCT
@@ -4326,7 +4326,7 @@ Garibaldi	PROPN
 e	CCONJ
 nel	ADP
 1870	NUM
-s	NUM
+s'	PRON
 era	AUX
 recato	VERB
 con	ADP
@@ -4499,7 +4499,7 @@ i	DET
 volontari	NOUN
 prima	ADV
 ,	PUNCT
-nell	ADP
+nell'	ADP
 esercito	NOUN
 regolare	ADJ
 poi	ADV
@@ -4516,13 +4516,13 @@ papa	NOUN
 a	ADP
 Castelfidardo	PROPN
 ,	PUNCT
-s	X
+s'	PRON
 era	AUX
 impadronito	VERB
 delle	ADP
-Marche	PROPN
+Marche	NOUN
 e	CCONJ
-dell	ADP
+dell'	ADP
 Umbria	PROPN
 ,	PUNCT
 aveva	AUX
@@ -4558,7 +4558,7 @@ fece	VERB
 la	DET
 campagna	NOUN
 contro	ADP
-l	DET
+l'	DET
 Austria	PROPN
 ed	CCONJ
 ebbe	VERB
@@ -4580,7 +4580,7 @@ commessi	VERB
 –	PUNCT
 Una	DET
 schiera	NOUN
-d	ADP
+d'	ADP
 eroi	NOUN
 militari	ADJ
 lasciarono	VERB
@@ -4630,13 +4630,13 @@ stato	AUX
 condannato	VERB
 alla	ADP
 forca	PROPN
-dall	ADP
+dall'	ADP
 Austria	PROPN
 .	PUNCT
 
 Nel	ADP
 1858-59	NUM
-fu	VERB
+fu	AUX
 in	ADP
 Piemonte	PROPN
 organizzatore	NOUN
@@ -4670,8 +4670,8 @@ Aspromonte	PROPN
 da	ADP
 una	DET
 parte	NOUN
-c	NOUN
-era	AUX
+c'	PRON
+era	VERB
 il	DET
 fermento	NOUN
 del	ADP
@@ -4682,13 +4682,13 @@ produrre	VERB
 da	ADP
 un	DET
 momento	NOUN
-all	ADP
+all'	ADP
 altro	PRON
 dolorosi	ADJ
 avvenimenti	NOUN
 ;	PUNCT
 
-dall	ADP
+dall'	ADP
 altra	PRON
 la	DET
 guerra	NOUN
@@ -4714,7 +4714,7 @@ Governo	NOUN
 ,	PUNCT
 che	PRON
 aveva	VERB
-l	DET
+l'	DET
 esercito	NOUN
 impegnato	VERB
 nella	ADP
@@ -4814,7 +4814,7 @@ patti	NOUN
 :	PUNCT
 
 che	SCONJ
-l	DET
+l'	DET
 Italia	PROPN
 non	ADV
 occupasse	VERB
@@ -4826,7 +4826,7 @@ anche	ADV
 con	ADP
 la	DET
 forza	NOUN
-l	DET
+l'	DET
 occupazione	NOUN
 da	ADP
 qualunque	DET
@@ -4961,7 +4961,7 @@ La	DET
 capitale	NOUN
 venne	AUX
 ,	PUNCT
-com	PROPN
+com'	SCONJ
 era	AUX
 stato	AUX
 stabilito	VERB
@@ -5006,7 +5006,7 @@ precedenti	ADJ
 .	PUNCT
 
 Ma	CCONJ
-l	DET
+l'	DET
 amor	NOUN
 patrio	ADJ
 seppe	VERB
@@ -5024,7 +5024,7 @@ nuovo	ADJ
 Regno	NOUN
 potesse	AUX
 dimostrare	VERB
-all	ADP
+all'	ADP
 Europa	PROPN
 che	PRON
 sapeva	VERB
@@ -5041,7 +5041,7 @@ Vittorio	PROPN
 Emanuele	PROPN
 III	ADJ
 ,	PUNCT
-l	DET
+l'	DET
 attuale	ADJ
 Re	PROPN
 ,	PUNCT
@@ -5057,7 +5057,7 @@ il	DET
 principio	NOUN
 del	ADP
 rifiorire	VERB
-dell	ADP
+dell'	ADP
 Italia	PROPN
 .	PUNCT
 
@@ -5132,7 +5132,7 @@ scuole	NOUN
 e	CCONJ
 a	ADP
 rendere	VERB
-l	DET
+l'	DET
 istruzione	NOUN
 più	ADV
 diffusa	ADJ
@@ -5143,7 +5143,7 @@ efficace	ADJ
 Si	PRON
 svolse	VERB
 tutta	DET
-un	DET
+un'	DET
 opera	NOUN
 grande	ADJ
 di	ADP
@@ -5169,7 +5169,7 @@ strinsero	VERB
 amichevoli	ADJ
 relazioni	NOUN
 con	ADP
-l	DET
+l'	DET
 altre	ADJ
 potenze	NOUN
 ,	PUNCT
@@ -5180,7 +5180,7 @@ la	DET
 Francia	PROPN
 e	CCONJ
 con	ADP
-l	DET
+l'	DET
 Inghilterra	PROPN
 .	PUNCT
 
@@ -5251,7 +5251,7 @@ gare	NOUN
 dei	ADP
 partiti	NOUN
 ,	PUNCT
-l	DET
+l'	DET
 Italia	PROPN
 abbia	AUX
 iniziato	VERB
@@ -5316,7 +5316,7 @@ narrato	VERB
 la	DET
 storia	NOUN
 dei	ADP
-cinquant	NUM
+cinquant'	NUM
 anni	NOUN
 ora	ADV
 decorsi	VERB
@@ -5366,7 +5366,7 @@ rammentiate	VERB
 che	SCONJ
 siete	AUX
 cittadini	ADJ
-d	ADP
+d'	ADP
 una	DET
 patria	NOUN
 grande	ADJ
@@ -5454,7 +5454,7 @@ uomini	NOUN
 grandi	ADJ
 per	ADP
 onorare	VERB
-l	DET
+l'	DET
 Italia	PROPN
 :	PUNCT
 
@@ -5490,7 +5490,7 @@ per	ADP
 conservare	VERB
 e	CCONJ
 completare	VERB
-l	DET
+l'	DET
 opera	NOUN
 dei	ADP
 grandi	NOUN
@@ -5524,10 +5524,10 @@ artistiche	ADJ
 ,	PUNCT
 e	CCONJ
 sentire	VERB
-l	DET
+l'	DET
 orgoglio	NOUN
-d	ADP
-esserne	VERB
+d'	ADP
+esserne	AUX
 figli	NOUN
 .	PUNCT
 
@@ -5540,7 +5540,7 @@ nel	ADP
 mondo	NOUN
 che	SCONJ
 uguaglino	VERB
-l	DET
+l'	DET
 Italia	PROPN
 nostra	DET
 nelle	ADP
@@ -5562,7 +5562,7 @@ la	PRON
 superi	VERB
 .	PUNCT
 
-Cinquant	PROPN
+Cinquant'	NUM
 anni	NOUN
 fa	ADV
 la	DET
@@ -5583,16 +5583,16 @@ a	ADP
 Torino	PROPN
 il	DET
 Regno	PROPN
-d	ADP
+d'	ADP
 Italia	PROPN
 .	PUNCT
 
 Ma	CCONJ
 il	DET
 Regno	PROPN
-d	ADP
+d'	ADP
 Italia	PROPN
-era	AUX
+era	VERB
 allora	ADV
 ben	ADV
 diverso	ADJ
@@ -5620,7 +5620,7 @@ ancora	ADV
 sotto	ADP
 il	DET
 dominio	NOUN
-dell	ADP
+dell'	ADP
 Austria	PROPN
 ,	PUNCT
 Roma	PROPN
@@ -5672,7 +5672,7 @@ ad	ADP
 assicurare	VERB
 la	DET
 prosperità	NOUN
-d	ADP
+d'	ADP
 un	DET
 popolo	NOUN
 .	PUNCT
@@ -5692,7 +5692,7 @@ negli	ADP
 staterelli	NOUN
 in	ADP
 cui	PRON
-l	DET
+l'	DET
 Italia	PROPN
 era	AUX
 stata	AUX
@@ -5736,7 +5736,7 @@ avvenimenti	NOUN
 storici	ADJ
 di	ADP
 questi	DET
-cinquant	NUM
+cinquant'	NUM
 anni	NOUN
 di	ADP
 Regno	PROPN
@@ -5815,7 +5815,7 @@ si	PRON
 poneva	VERB
 alla	ADP
 ricerca	NOUN
-d	ADP
+d'	ADP
 un	DET
 re	NOUN
 .	PUNCT
@@ -5837,13 +5837,13 @@ III	ADJ
 il	DET
 partito	NOUN
 repubblicano	ADJ
-s	PROPN
+s'	PRON
 era	AUX
 fatto	VERB
 forte	ADJ
 ,	PUNCT
 e	CCONJ
-l	DET
+l'	DET
 Imperatore	NOUN
 prevedeva	VERB
 che	SCONJ
@@ -5878,7 +5878,7 @@ glorie	NOUN
 militari	ADJ
 .	PUNCT
 
-L	DET
+L'	DET
 occasione	NOUN
 buona	ADJ
 parve	VERB
@@ -5945,7 +5945,7 @@ Prussia	PROPN
 Ottone	PROPN
 Bismarck	PROPN
 ,	PUNCT
-grand	PROPN
+grand'	ADV
 uomo	NOUN
 di	ADP
 Stato	NOUN
@@ -5976,7 +5976,7 @@ fondare	VERB
 come	ADV
 avvenne	VERB
 ,	PUNCT
-l	DET
+l'	DET
 Impero	PROPN
 Germanico	PROPN
 ,	PUNCT
@@ -6000,7 +6000,7 @@ guerra	NOUN
 che	PRON
 si	PRON
 svolse	VERB
-dall	ADP
+dall'	ADP
 agosto	NOUN
 del	ADP
 1870	NUM
@@ -6083,7 +6083,7 @@ milioni	NOUN
 
 Napoleone	PROPN
 III	ADJ
-s	X
+s'	PRON
 era	AUX
 arreso	VERB
 prigioniero	ADJ
@@ -6133,7 +6133,7 @@ il	DET
 Veneto	PROPN
 .	PUNCT
 
-L	DET
+L'	DET
 Austria	PROPN
 aveva	VERB
 allora	ADV
@@ -6167,7 +6167,7 @@ di	ADP
 commercio	NOUN
 col	ADP
 Regno	PROPN
-d	ADP
+d'	ADP
 Italia	PROPN
 ,	PUNCT
 poi	ADV
@@ -6180,14 +6180,14 @@ militare	ADJ
 per	ADP
 movere	VERB
 guerra	NOUN
-all	ADP
+all'	ADP
 Austria	PROPN
 da	ADP
 due	NUM
 parti	NOUN
 .	PUNCT
 
-L	DET
+L'	DET
 Austria	PROPN
 ,	PUNCT
 che	PRON
@@ -6248,7 +6248,7 @@ ai	ADP
 Prussiani	NOUN
 e	CCONJ
 respinse	VERB
-l	DET
+l'	DET
 offerta	NOUN
 .	PUNCT
 
@@ -6262,7 +6262,7 @@ scoppiò	VERB
 nel	ADP
 1866	NUM
 e	CCONJ
-l	DET
+l'	DET
 Italia	PROPN
 ,	PUNCT
 secondo	ADP
@@ -6270,17 +6270,17 @@ i	DET
 patti	NOUN
 ,	PUNCT
 dichiarò	VERB
-anch	ADV
+anch'	ADV
 essa	PRON
 la	DET
 guerra	NOUN
 a	ADP
-quest	DET
+quest'	DET
 ultima	ADJ
 .	PUNCT
 
 Benché	SCONJ
-l	DET
+l'	DET
 Italia	PROPN
 non	ADV
 fosse	AUX
@@ -6289,14 +6289,14 @@ ben	ADV
 preparata	ADJ
 ,	PUNCT
 tuttavia	ADV
-l	DET
+l'	DET
 idea	NOUN
 di	ADP
 tornare	VERB
 in	ADP
 campo	NOUN
 contro	ADP
-l	DET
+l'	DET
 Austria	PROPN
 fu	AUX
 accolta	VERB
@@ -6314,8 +6314,8 @@ accorsero	VERB
 a	ADP
 inscriversi	VERB
 numerosi	DET
-sia	AUX
-nell	ADP
+sia	CCONJ
+nell'	ADP
 esercito	NOUN
 regolare	ADJ
 sia	CCONJ
@@ -6352,7 +6352,7 @@ Noi	PRON
 avevamo	VERB
 260	NUM
 soldati	NOUN
-dell	ADP
+dell'	ADP
 esercito	NOUN
 regolare	ADJ
 e	CCONJ
@@ -6416,10 +6416,10 @@ non	ADV
 tutti	DET
 i	DET
 comandanti	NOUN
-dell	ADP
+dell'	ADP
 esercito	NOUN
 erano	AUX
-all	ADP
+all'	ADP
 altezza	NOUN
 del	ADP
 loro	DET
@@ -6465,7 +6465,7 @@ luglio	NOUN
 
 mentre	SCONJ
 invece	ADV
-l	DET
+l'	DET
 esercito	NOUN
 dei	ADP
 volontari	NOUN
@@ -6481,7 +6481,7 @@ nel	ADP
 Trentino	PROPN
 ,	PUNCT
 dove	ADV
-s	PRON
+s'	PRON
 era	AUX
 inoltrato	VERB
 per	ADP
@@ -6493,7 +6493,7 @@ austriache	ADJ
 e	CCONJ
 una	DET
 parte	NOUN
-dell	ADP
+dell'	ADP
 esercito	NOUN
 regolare	ADJ
 ,	PUNCT
@@ -6518,7 +6518,7 @@ da	ADP
 Gradisca	PROPN
 ,	PUNCT
 e	CCONJ
-un	DET
+un'	DET
 altra	ADJ
 parte	NOUN
 ,	PUNCT
@@ -6554,7 +6554,7 @@ stata	AUX
 fortunatissima	ADJ
 ,	PUNCT
 sicché	SCONJ
-l	DET
+l'	DET
 Austria	PROPN
 fu	AUX
 costretta	VERB
@@ -6602,7 +6602,7 @@ Francia	PROPN
 ,	PUNCT
 a	ADP
 cui	PRON
-l	DET
+l'	DET
 Austria	PROPN
 lo	PRON
 aveva	AUX
@@ -6610,7 +6610,7 @@ ceduto	VERB
 per	ADP
 non	ADV
 subire	VERB
-l	DET
+l'	DET
 umiliazione	NOUN
 di	ADP
 consegnarlo	VERB
@@ -6655,13 +6655,13 @@ trattato	NOUN
 di	ADP
 pace	NOUN
 ,	PUNCT
-l	DET
+l'	DET
 Austria	PROPN
 riconobbe	VERB
 anche	ADV
 il	DET
-Regno	PROPN
-d	ADP
+Regno	NOUN
+d'	ADP
 Italia	PROPN
 .	PUNCT
 
@@ -6688,7 +6688,7 @@ e	CCONJ
 la	DET
 convenzione	NOUN
 con	ADP
-l	DET
+l'	DET
 Austria	PROPN
 avevano	AUX
 scosse	NOUN
@@ -6781,7 +6781,7 @@ economico	ADJ
 del	ADP
 progresso	NOUN
 civile	ADJ
-d	ADP
+d'	ADP
 una	DET
 nazione	NOUN
 giovane	ADJ
@@ -6863,7 +6863,7 @@ ebbe	VERB
 Otto	NUM
 anni	NOUN
 dopo	ADP
-l	DET
+l'	DET
 acquisto	NOUN
 di	ADP
 Roma	PROPN
@@ -6890,7 +6890,7 @@ Governo	NOUN
 italiano	ADJ
 ,	PUNCT
 sotto	ADP
-l	DET
+l'	DET
 impulso	NOUN
 del	ADP
 gran	ADJ
@@ -6918,12 +6918,12 @@ ecc.	NOUN
 ,	PUNCT
 nel	ADP
 riordinare	VERB
-l	DET
+l'	DET
 esercito	NOUN
 ,	PUNCT
-nell	ADP
+nell'	ADP
 organizzare	VERB
-l	DET
+l'	DET
 istruzione	NOUN
 obbligatoria	ADJ
 del	ADP
@@ -6982,13 +6982,13 @@ scopo	NOUN
 pacifico	ADJ
 ,	PUNCT
 fra	ADP
-l	DET
+l'	DET
 Italia	PROPN
 ,	PUNCT
 la	DET
 Germania	PROPN
 e	CCONJ
-l	DET
+l'	DET
 Austria	PROPN
 .	PUNCT
 
@@ -7020,7 +7020,7 @@ di	ADP
 battaglia	NOUN
 ,	PUNCT
 per	ADP
-l	DET
+l'	DET
 energia	NOUN
 ,	PUNCT
 la	DET
@@ -7061,13 +7061,13 @@ Pio	PROPN
 IX	ADJ
 .	PUNCT
 
-Quest	VERB
+Quest'	DET
 estate	NOUN
 sono	AUX
 sceso	VERB
-all	ADP
+all'	ADP
 albergo	NOUN
-dell	ADP
+dell'	ADP
 Angelo	PROPN
 ,	PUNCT
 sulla	ADP
@@ -7083,12 +7083,12 @@ conosceva	VERB
 ,	PUNCT
 tanto	ADV
 sono	AUX
-grand	PROPN
+grand'	ADV
 e	CCONJ
 grosso	ADJ
 .	PUNCT
 
-Neanch	PROPN
+Neanch'	ADV
 io	PRON
 in	ADP
 paese	NOUN
@@ -7127,7 +7127,7 @@ su	ADV
 nella	ADP
 valle	NOUN
 ,	PUNCT
-l	DET
+l'	DET
 acqua	NOUN
 del	ADP
 Belbo	PROPN
@@ -7135,7 +7135,7 @@ passa	VERB
 davanti	ADV
 alla	DET
 chiesa	NOUN
-mezz	VERB
+mezz'	VERB
 ora	ADV
 prima	ADV
 di	ADP
@@ -7159,7 +7159,7 @@ che	PRON
 è	AUX
 la	DET
 Madonna	PROPN
-d	ADP
+d'	ADP
 agosto	NOUN
 .	PUNCT
 
@@ -7310,8 +7310,8 @@ a	ADP
 Belbo	PROPN
 .	PUNCT
 
-C	PROPN
-era	AUX
+C'	PRON
+era	VERB
 di	ADP
 nuovo	ADJ
 che	SCONJ
@@ -7328,7 +7328,7 @@ salario	NOUN
 in	ADP
 mano	NOUN
 ,	PUNCT
-m	NOUN
+m'	PRON
 ero	AUX
 buttato	VERB
 nella	ADP
@@ -7339,7 +7339,7 @@ tiro	NOUN
 a	ADP
 segno	NOUN
 ,	PUNCT
-sull	ADP
+sull'	ADP
 altalena	NOUN
 ,	PUNCT
 avevamo	AUX
@@ -7382,8 +7382,8 @@ ballavano	VERB
 insieme	ADV
 .	PUNCT
 
-C	PROPN
-era	AUX
+C'	PRON
+era	VERB
 di	ADP
 nuovo	ADJ
 che	SCONJ
@@ -7399,7 +7399,7 @@ passato	VERB
 .	PUNCT
 
 Me	PRON
-n	X
+n'	PRON
 ero	AUX
 andato	VERB
 dalla	ADP
@@ -7413,7 +7413,7 @@ saperlo	VERB
 
 Nuto	PROPN
 che	SCONJ
-c	PRON
+c'	PRON
 era	AUX
 rimasto	VERB
 ,	PUNCT
@@ -7511,8 +7511,8 @@ libero	ADJ
 stradone	NOUN
 ;	PUNCT
 
-c	PRON
-è	AUX
+c'	PRON
+è	VERB
 un	DET
 odore	NOUN
 di	ADP
@@ -7541,7 +7541,7 @@ un	DET
 casotto	NOUN
 e	CCONJ
 da	ADP
-un	DET
+un'	DET
 aia	NOUN
 sembrava	VERB
 un	DET
@@ -7550,7 +7550,7 @@ mondo	NOUN
 :	PUNCT
 
 era	AUX
-l	DET
+l'	DET
 odore	NOUN
 della	ADP
 strada	NOUN
@@ -7614,7 +7614,7 @@ Il	DET
 clarino	NOUN
 è	AUX
 appeso	VERB
-all	ADP
+all'	ADP
 armadio	NOUN
 ;	PUNCT
 
@@ -7647,7 +7647,7 @@ sambuchi	NOUN
 ,	PUNCT
 sempre	ADV
 asciutta	ADJ
-d	ADP
+d'	ADP
 estate	NOUN
 .	PUNCT
 
@@ -7685,8 +7685,8 @@ padre	NOUN
 
 Quando	SCONJ
 gli	PRON
-raccontai	PROPN
-dov	PROPN
+raccontai	VERB
+dov'	ADV
 ero	AUX
 stato	AUX
 ,	PUNCT
@@ -7715,7 +7715,7 @@ avevo	AUX
 trovato	VERB
 una	DET
 pentola	NOUN
-d	ADP
+d'	ADP
 oro	NOUN
 sotto	ADP
 la	DET
@@ -7763,7 +7763,7 @@ America	PROPN
 dissi	VERB
 ,	PUNCT
 -	PUNCT
-c	PRON
+c'	PRON
 è	VERB
 di	ADP
 bello	NOUN
@@ -7789,10 +7789,10 @@ da	ADP
 aggiustare	VERB
 .	PUNCT
 
-Perché	ADV
+Perché	SCONJ
 ci	PRON
-dev	AUX
-essere	AUX
+dev'	AUX
+essere	VERB
 chi	PRON
 non	ADV
 ha	VERB
@@ -7817,7 +7817,7 @@ sono	VERB
 
 Io	PRON
 ce	PRON
-l	PRON
+l'	PRON
 ho	AUX
 fatta	VERB
 ,	PUNCT
@@ -7829,7 +7829,7 @@ nome	NOUN
 -	PUNCT
 Tu	PROPN
 ce	PRON
-l	PRON
+l'	PRON
 hai	AUX
 fatta	VERB
 ,	PUNCT
@@ -7850,7 +7850,7 @@ quelli	PRON
 che	PRON
 non	ADV
 ce	PRON
-l	PRON
+l'	PRON
 hanno	AUX
 fatta	VERB
 ?	PUNCT
@@ -7879,8 +7879,8 @@ alle	DET
 cucine	NOUN
 si	PRON
 trovava	VERB
-l	DET
-idiota	ADJ
+l'	DET
+idiota	NOUN
 ,	PUNCT
 il	DET
 deficiente	NOUN
@@ -7911,7 +7911,7 @@ di	ADP
 croste	NOUN
 .	PUNCT
 
-C	PROPN
+C'	PRON
 era	VERB
 anche	ADV
 chi	PRON
@@ -7921,7 +7921,7 @@ scherzava	VERB
 
 Tu	PROPN
 ce	PRON
-l	PRON
+l'	PRON
 hai	AUX
 fatta	VERB
 ,	PUNCT
@@ -8022,7 +8022,7 @@ noi	PRON
 ragazzi	NOUN
 ,	PUNCT
 strizzava	VERB
-l	DET
+l'	DET
 occhio	NOUN
 alle	ADP
 donne	NOUN
@@ -8095,7 +8095,7 @@ musicante	NOUN
 
 I	DET
 paesi	NOUN
-dov	ADP
+dov'	ADV
 era	AUX
 stato	AUX
 li	PRON
@@ -8186,16 +8186,16 @@ la	DET
 tromba	NOUN
 ,	PUNCT
 poi	ADV
-un	DET
+un'	DET
 altra	ADJ
 mangiata	NOUN
 ,	PUNCT
 poi	ADV
-un	DET
+un'	DET
 altra	ADJ
 bevuta	NOUN
 e	CCONJ
-l	DET
+l'	DET
 assolo	NOUN
 ,	PUNCT
 poi	ADV
@@ -8212,8 +8212,8 @@ al	DET
 mattino	NOUN
 .	PUNCT
 
-C	PROPN
-erano	AUX
+C'	PRON
+erano	VERB
 feste	NOUN
 ,	PUNCT
 processioni	NOUN
@@ -8221,8 +8221,8 @@ processioni	NOUN
 nozze	NOUN
 ;	PUNCT
 
-c	PRON
-erano	AUX
+c'	PRON
+erano	VERB
 gare	NOUN
 con	ADP
 le	DET
@@ -8252,12 +8252,12 @@ faccia	NOUN
 in	ADP
 un	DET
 secchio	NOUN
-d	ADP
+d'	ADP
 acqua	NOUN
 e	CCONJ
 magari	ADV
 buttarsi	VERB
-sull	ADP
+sull'	ADP
 erba	NOUN
 di	ADP
 quei	DET
@@ -8333,11 +8333,11 @@ alla	ADP
 Mora	PROPN
 ,	PUNCT
 cene	NOUN
-d	ADP
+d'	ADP
 altri	ADJ
 paesi	NOUN
 e	CCONJ
-d	ADP
+d'	ADP
 altri	ADJ
 tempi	NOUN
 .	PUNCT
@@ -8455,9 +8455,9 @@ disgusta	ADJ
 
 -	PUNCT
 Poi	ADV
-c	PRON
+c'	PRON
 è	AUX
-stata	AUX
+stata	VERB
 la	DET
 guerra	NOUN
 ,	PUNCT
@@ -8508,12 +8508,12 @@ Nuto	PROPN
 ripensandoci	VERB
 ,	PUNCT
 -	PUNCT
-c	PRON
-è	AUX
+c'	PRON
+è	VERB
 soltanto	ADV
 il	DET
 guaio	NOUN
-ch	PROPN
+ch'	SCONJ
 è	AUX
 un	DET
 cattivo	ADJ
@@ -8530,7 +8530,7 @@ smettere	VERB
 Mio	DET
 padre	NOUN
 diceva	VERB
-ch	PROPN
+ch'	SCONJ
 è	AUX
 meglio	ADV
 il	DET
@@ -8587,7 +8587,7 @@ serio	ADJ
 Non	ADV
 hai	AUX
 fornito	VERB
-l	DET
+l'	DET
 ospedale	NOUN
 di	ADP
 Alessandria	PROPN
@@ -8716,7 +8716,7 @@ alle	DET
 amiche	NOUN
 ,	PUNCT
 cerca	VERB
-l	DET
+l'	DET
 uomo	NOUN
 .	PUNCT
 
@@ -8728,13 +8728,13 @@ una	DET
 ragazza	NOUN
 che	PRON
 capisse	VERB
-cos	PROPN
+cos'	PRON
 è	AUX
 suonare	VERB
 ...	PUNCT
 
 Nuto	PROPN
-s	PROPN
+s'	PRON
 accorse	VERB
 che	SCONJ
 ridevo	VERB
@@ -8811,7 +8811,7 @@ che	PRON
 segnavano	VERB
 quel	DET
 filo	NOUN
-d	ADP
+d'	ADP
 acqua	NOUN
 ,	PUNCT
 e	CCONJ
@@ -8841,8 +8841,8 @@ vino	NOUN
 ?	PUNCT
 
 -	PUNCT
-Te	PROPN
-l	PRON
+Te	PRON
+l'	PRON
 ho	AUX
 già	ADV
 detto	VERB
@@ -8925,7 +8925,7 @@ già	ADV
 andato	VERB
 a	ADP
 dare	VERB
-un	DET
+un'	DET
 occhiata	NOUN
 alla	ADP
 Mora	PROPN
@@ -8935,7 +8935,7 @@ Difatti	ADV
 .	PUNCT
 
 Non	ADV
-c	PRON
+c'	PRON
 ero	AUX
 andato	VERB
 .	PUNCT
@@ -8950,7 +8950,7 @@ del	ADP
 Salto	NOUN
 e	CCONJ
 non	ADV
-c	PRON
+c'	PRON
 ero	AUX
 andato	VERB
 .	PUNCT
@@ -9019,7 +9019,7 @@ Sono	AUX
 tornato	VERB
 .	PUNCT
 
-L	DET
+L'	DET
 Inghilterra	PROPN
 fu	AUX
 la	DET
@@ -9040,12 +9040,12 @@ a	ADP
 grado	NOUN
 lo	PRON
 riconobbero	VERB
-l	DET
+l'	DET
 altre	PRON
 ,	PUNCT
-all	ADP
+all'	ADP
 infuori	NOUN
-dell	ADP
+dell'	ADP
 Austria	PROPN
 ,	PUNCT
 che	PRON
@@ -9124,7 +9124,7 @@ in	ADP
 tutto	DET
 il	DET
 territorio	NOUN
-l	DET
+l'	DET
 amministrazione	NOUN
 dello	ADP
 Stato	NOUN
@@ -9134,12 +9134,12 @@ vita	NOUN
 civile	ADJ
 a	ADP
 popolazioni	NOUN
-ch	PROPN
+ch'	SCONJ
 erano	AUX
 vissute	VERB
 fin	ADP
 lì	ADV
-nell	ADP
+nell'	ADP
 abbrutimento	NOUN
 .	PUNCT
 
@@ -9161,7 +9161,7 @@ essendosi	VERB
 deliberato	VERB
 di	ADP
 fondere	VERB
-l	DET
+l'	DET
 esercito	NOUN
 garibaldino	ADJ
 con	ADP
@@ -9214,7 +9214,7 @@ era	AUX
 da	ADP
 ricercarsi	VERB
 in	ADP
-quell	DET
+quell'	DET
 atto	NOUN
 ,	PUNCT
 che	PRON
@@ -9280,8 +9280,8 @@ ne	PRON
 seguì	VERB
 ,	PUNCT
 lamentò	VERB
-l	DET
-accaduto	VERB
+l'	DET
+accaduto	NOUN
 e	CCONJ
 pronunziò	VERB
 queste	DET
@@ -9315,7 +9315,7 @@ questi	DET
 due	NUM
 uomini	NOUN
 cari	ADJ
-all	ADP
+all'	ADP
 Italia	PROPN
 !	PUNCT
 »	PUNCT
@@ -9335,11 +9335,11 @@ e	CCONJ
 mettendo	VERB
 la	DET
 destra	NOUN
-dell	ADP
+dell'	ADP
 uno	PRON
 in	ADP
 quella	PRON
-dell	ADP
+dell'	ADP
 altro	PRON
 .	PUNCT
 
@@ -9402,7 +9402,7 @@ casa	NOUN
 .	PUNCT
 
 Anche	ADV
-l	DET
+l'	DET
 America	PROPN
 finiva	VERB
 nel	ADP
@@ -9416,7 +9416,7 @@ imbarcarmi	VERB
 ancora	ADV
 ,	PUNCT
 così	ADV
-m	PRON
+m'	PRON
 ero	AUX
 fermato	VERB
 tra	ADP
@@ -9577,7 +9577,7 @@ da	ADP
 un	DET
 pezzo	NOUN
 e	CCONJ
-m	NOUN
+m'	PRON
 ero	AUX
 fatto	VERB
 una	DET
@@ -9606,10 +9606,10 @@ di	ADP
 venire	VERB
 a	ADP
 prendermi	VERB
-sull	ADP
+sull'	ADP
 uscio	NOUN
 ,	PUNCT
-s	X
+s'	PRON
 era	AUX
 fatta	VERB
 assumere	VERB
@@ -9645,7 +9645,7 @@ lei	PRON
 mi	PRON
 raggiungeva	VERB
 correndo	VERB
-sull	ADP
+sull'	ADP
 asfalto	NOUN
 coi	ADP
 tacchetti	NOUN
@@ -9713,7 +9713,7 @@ boschetti	NOUN
 o	CCONJ
 anche	ADV
 soltanto	ADV
-l	DET
+l'	DET
 erba	NOUN
 corta	ADJ
 dei	ADP
@@ -9879,7 +9879,7 @@ dalla	ADP
 cassa	NOUN
 ,	PUNCT
 tendeva	VERB
-l	DET
+l'	DET
 orecchio	NOUN
 ,	PUNCT
 si	PRON
@@ -9890,8 +9890,8 @@ Nora	PROPN
 non	ADV
 era	AUX
 mai	ADV
-stata	AUX
-nell	ADP
+stata	VERB
+nell'	ADP
 Alessandrino	PROPN
 e	CCONJ
 non	ADV
@@ -9956,14 +9956,14 @@ vino	NOUN
 da	ADP
 pasto	NOUN
 non	ADV
-c	PRON
+c'	PRON
 è	VERB
 ...	PUNCT
 
 -	PUNCT
 Non	ADV
-c	PRON
-è	AUX
+c'	PRON
+è	VERB
 niente	PRON
 ,	PUNCT
 -	PUNCT
@@ -10015,7 +10015,7 @@ sul	ADP
 banco	NOUN
 facendo	VERB
 cenno	NOUN
-all	ADP
+all'	ADP
 indietro	ADV
 con	ADP
 la	DET
@@ -10100,8 +10100,8 @@ lui	PRON
 .	PUNCT
 
 -	PUNCT
-C	PROPN
-è	AUX
+C'	PRON
+è	VERB
 confronto	NOUN
 ?	PUNCT
 
@@ -10118,7 +10118,7 @@ della	ADP
 gara	NOUN
 di	ADP
 Nizza	PROPN
-l	DET
+l'	DET
 anno	NOUN
 prima	ADV
 ,	PUNCT
@@ -10157,7 +10157,7 @@ si	PRON
 muoveva	VERB
 piú	ADV
 ,	PUNCT
-s	X
+s'	PRON
 era	AUX
 dovuta	VERB
 rimandare	VERB
@@ -10196,9 +10196,9 @@ Neive	PROPN
 .	PUNCT
 
 Ma	CCONJ
-c	PRON
+c'	PRON
 era	AUX
-stata	AUX
+stata	VERB
 discussione	NOUN
 ,	PUNCT
 fughe	NOUN
@@ -10230,7 +10230,7 @@ conosco	VERB
 
 E	CCONJ
 allora	ADV
-l	DET
+l'	DET
 amico	NOUN
 disse	VERB
 a	ADP
@@ -10257,7 +10257,7 @@ agli	ADP
 ignoranti	NOUN
 ,	PUNCT
 Nuto	PROPN
-s	PROPN
+s'	PRON
 era	AUX
 messo	VERB
 sullo	ADP
@@ -10334,8 +10334,8 @@ clacson	NOUN
 .	PUNCT
 
 Versai	PROPN
-un	DET
-altra	DET
+un'	DET
+altra	ADJ
 tazza	NOUN
 al	ADP
 mio	DET
@@ -10376,7 +10376,7 @@ a	ADP
 fumare	VERB
 una	DET
 sigaretta	NOUN
-sull	ADP
+sull'	ADP
 erba	NOUN
 ,	PUNCT
 lontano	ADV
@@ -10393,8 +10393,8 @@ vuoto	ADJ
 .	PUNCT
 
 Non	ADV
-c	PRON
-era	AUX
+c'	PRON
+era	VERB
 luna	NOUN
 ma	CCONJ
 un	DET
@@ -10423,7 +10423,7 @@ si	PRON
 fosse	AUX
 lasciata	VERB
 rovesciare	VERB
-sull	ADP
+sull'	ADP
 erba	NOUN
 non	ADV
 mi	PRON
@@ -10450,7 +10450,7 @@ discesa	NOUN
 accelerando	VERB
 ,	PUNCT
 né	CCONJ
-l	DET
+l'	DET
 America	PROPN
 di	ADP
 finire	VERB
@@ -10472,7 +10472,7 @@ nel	ADP
 buio	NOUN
 ,	PUNCT
 in	ADP
-quell	DET
+quell'	DET
 odore	NOUN
 di	ADP
 giardino	NOUN
@@ -10559,7 +10559,7 @@ una	DET
 ragazza	NOUN
 strangolata	VERB
 in	ADP
-un	DET
+un'	DET
 automobile	NOUN
 ,	PUNCT
 o	CCONJ
@@ -10585,12 +10585,12 @@ avesse	VERB
 voglia	NOUN
 di	ADP
 buttarsi	VERB
-sull	ADP
+sull'	ADP
 erba	NOUN
 ,	PUNCT
 di	ADP
 andare	VERB
-d	ADP
+d'	ADP
 accordo	NOUN
 coi	ADP
 rospi	NOUN
@@ -10603,7 +10603,7 @@ un	DET
 pezzo	NOUN
 di	ADP
 terra	NOUN
-quant	PRON
+quant'	SCONJ
 è	AUX
 lunga	ADJ
 una	DET
@@ -10623,22 +10623,22 @@ paese	NOUN
 era	AUX
 grande	ADJ
 ,	PUNCT
-ce	PROPN
-n	X
-era	AUX
+ce	PRON
+n'	PRON
+era	VERB
 per	ADP
 tutti	PRON
 .	PUNCT
 
-C	PROPN
-erano	AUX
+C'	PRON
+erano	VERB
 donne	NOUN
 ,	PUNCT
-c	PRON
-era	AUX
+c'	PRON
+era	VERB
 terra	NOUN
 ,	PUNCT
-c	PRON
+c'	PRON
 era	VERB
 denari	NOUN
 .	PUNCT
@@ -10857,7 +10857,7 @@ scappò	VERB
 da	ADP
 ridere	VERB
 ,	PUNCT
-all	ADP
+all'	ADP
 idea	NOUN
 se	SCONJ
 avesse	AUX
@@ -10905,7 +10905,7 @@ capo	NOUN
 al	ADP
 mondo	NOUN
 ,	PUNCT
-sull	ADP
+sull'	ADP
 ultima	ADJ
 costa	NOUN
 ,	PUNCT
@@ -11007,7 +11007,7 @@ morì	VERB
 fra	ADP
 la	DET
 costernazione	NOUN
-dell	ADP
+dell'	ADP
 Italia	PROPN
 intera	ADJ
 .	PUNCT
@@ -11045,7 +11045,7 @@ uomo	NOUN
 politico	ADJ
 era	AUX
 per	ADP
-l	DET
+l'	DET
 Italia	PROPN
 gravissimo	ADJ
 .	PUNCT
@@ -11067,7 +11067,7 @@ e	CCONJ
 alle	ADP
 grandi	ADJ
 spese	NOUN
-ch	PROPN
+ch'	SCONJ
 erano	AUX
 necessarie	ADJ
 ,	PUNCT
@@ -11135,7 +11135,7 @@ che	SCONJ
 ciò	PRON
 provocasse	VERB
 difficoltà	NOUN
-all	ADP
+all'	ADP
 Italia	PROPN
 da	ADP
 parte	NOUN
@@ -11219,7 +11219,7 @@ gli	DET
 altri	ADJ
 uomini	NOUN
 politici	ADJ
-d	ADP
+d'	ADP
 allora	ADV
 ,	PUNCT
 per	ADP
@@ -11242,7 +11242,7 @@ Nemmeno	ADV
 per	ADP
 la	DET
 Madonna	PROPN
-d	ADP
+d'	ADP
 agosto	NOUN
 Nuto	PROPN
 ha	AUX
@@ -11269,7 +11269,7 @@ davvero	ADV
 Di	ADP
 sera	NOUN
 veniva	VERB
-all	ADP
+all'	ADP
 Angelo	PROPN
 e	CCONJ
 stavamo	AUX
@@ -11321,8 +11321,8 @@ ragione	NOUN
 mi	PRON
 parlava	VERB
 di	ADP
-che	SCONJ
-cos	NOUN
+che	DET
+cos'	PRON
 è	AUX
 questo	DET
 mondo	NOUN
@@ -11367,10 +11367,10 @@ dissi	VERB
 
 -	PUNCT
 Sai	VERB
-com	NOUN
+com'	SCONJ
 è	VERB
 a	ADP
-quell	DET
+quell'	DET
 età	NOUN
 .	PUNCT
 
@@ -11427,8 +11427,8 @@ discorsi	NOUN
 .	PUNCT
 
 A	ADP
-quell	PROPN
-età	VERB
+quell'	DET
+età	NOUN
 una	DET
 piazza	NOUN
 come	ADP
@@ -11489,7 +11489,7 @@ Nuto	PROPN
 -	PUNCT
 Tu	PRON
 invece	ADV
-l	DET
+l'	PRON
 hai	AUX
 presa	VERB
 .	PUNCT
@@ -11520,7 +11520,7 @@ di	ADP
 Canelli	PROPN
 avevo	AUX
 visto	VERB
-un	DET
+un'	DET
 automobile	NOUN
 investire	VERB
 quel	DET
@@ -11577,7 +11577,7 @@ via	ADV
 
 È	VERB
 perché	SCONJ
-c	PRON
+c'	PRON
 è	VERB
 un	DET
 destino	NOUN
@@ -11590,7 +11590,7 @@ Genova	PROPN
 in	ADP
 America	PROPN
 ,	PUNCT
-va	VERB
+va'	PROPN
 a	ADP
 sapere	VERB
 ,	PUNCT
@@ -11614,7 +11614,7 @@ me	PRON
 
 Ma	CCONJ
 non	ADV
-c	PRON
+c'	PRON
 era	VERB
 bisogno	NOUN
 di	ADP
@@ -11697,7 +11697,7 @@ testa	NOUN
 Un	DET
 giorno	NOUN
 o	CCONJ
-l	DET
+l'	DET
 altro	PRON
 ti	PRON
 racconto	VERB
@@ -11773,8 +11773,8 @@ e	CCONJ
 tanto	ADV
 in	ADP
 gamba	NOUN
-che	SCONJ
-c	PRON
+che	PRON
+c'	PRON
 insegnava	VERB
 a	ADP
 tutti	DET
@@ -11793,7 +11793,7 @@ mi	PRON
 ricordassi	VERB
 che	SCONJ
 adesso	ADV
-l	DET
+l'	PRON
 avevo	AUX
 raggiunto	VERB
 e	CCONJ
@@ -11922,7 +11922,7 @@ Chi	PRON
 dei	ADP
 due	NUM
 frega	VERB
-l	DET
+l'	DET
 altro	PRON
 ?	PUNCT
 
@@ -11955,7 +11955,7 @@ Chi	PRON
 è	VERB
 che	PRON
 paga	VERB
-l	DET
+l'	DET
 illuminazione	NOUN
 ,	PUNCT
 i	DET
@@ -11973,7 +11973,7 @@ chi	PRON
 se	PRON
 la	PRON
 ride	VERB
-l	DET
+l'	DET
 indomani	NOUN
 della	ADP
 festa	NOUN
@@ -12041,13 +12041,13 @@ la	DET
 terra	NOUN
 ,	PUNCT
 dove	ADV
-l	PRON
+l'	PRON
 han	AUX
 presa	VERB
 ?	PUNCT
 
 Perché	PROPN
-dev	PROPN
+dev'	AUX
 esserci	VERB
 chi	PRON
 ne	PRON
@@ -12104,8 +12104,8 @@ chi	PRON
 vuole	VERB
 .	PUNCT
 
-C	PROPN
-era	AUX
+C'	PRON
+era	VERB
 uno	PRON
 ,	PUNCT
 lo	PRON
@@ -12177,7 +12177,7 @@ Ha	AUX
 dovuto	AUX
 andar	VERB
 via	ADV
-quest	DET
+quest'	DET
 inverno	NOUN
 .	PUNCT
 
@@ -12293,7 +12293,7 @@ e	CCONJ
 la	DET
 forza	NOUN
 ...	PUNCT
-C	PROPN
+C'	PRON
 eri	VERB
 anche	ADV
 tu	PRON
@@ -12302,7 +12302,7 @@ colline	NOUN
 ?	PUNCT
 
 Non	ADV
-gliel	NOUN
+gliel'	PRON
 avevo	AUX
 mai	ADV
 chiesto	VERB
@@ -12322,11 +12322,11 @@ quando	SCONJ
 noi	PRON
 non	ADV
 avevamo	VERB
-vent	NUM
+vent'	NUM
 anni	NOUN
 -	PUNCT
 che	PRON
-c	PRON
+c'	PRON
 erano	AUX
 morti	VERB
 ,	PUNCT
@@ -12366,7 +12366,7 @@ Sapevo	VERB
 che	SCONJ
 quei	DET
 boschi	NOUN
-s	X
+s'	PRON
 erano	AUX
 riempiti	VERB
 di	ADP
@@ -12485,7 +12485,7 @@ la	DET
 lucertola	NOUN
 .	PUNCT
 
-Vent	PROPN
+Vent'	NUM
 anni	NOUN
 passano	VERB
 per	ADP
@@ -12497,8 +12497,8 @@ Se	SCONJ
 il	DET
 sor	NOUN
 Matteo	PROPN
-ce	PROPN
-l	PRON
+ce	PRON
+l'	PRON
 avesse	AUX
 fatto	VERB
 a	ADP
@@ -12514,8 +12514,8 @@ avevo	AUX
 detto	VERB
 ,	PUNCT
 -	PUNCT
-cos	ADV
-avresti	AUX
+cos'	PRON
+avresti	NOUN
 risposto	VERB
 ?	PUNCT
 
@@ -12543,7 +12543,7 @@ detto	VERB
 -	PUNCT
 Facevamo	VERB
 male	ADV
-tutt	ADV
+tutt'	ADJ
 e	CCONJ
 due	NUM
 .	PUNCT
@@ -12792,7 +12792,7 @@ Patria	NOUN
 nostra	DET
 in	ADP
 questi	DET
-cinquant	NUM
+cinquant'	NUM
 anni	NOUN
 ebbe	VERB
 anche	ADV
@@ -12819,7 +12819,7 @@ montagne	NOUN
 ,	PUNCT
 è	AUX
 dovuta	VERB
-all	ADP
+all'	ADP
 italiano	ADJ
 ingegnere	NOUN
 Agudio	PROPN
@@ -12843,7 +12843,7 @@ montagne	NOUN
 ,	PUNCT
 è	AUX
 dovuta	VERB
-all	ADP
+all'	ADP
 ingegnere	NOUN
 G.	PROPN
 B.	PROPN
@@ -12935,8 +12935,8 @@ polo	NOUN
 nord	NOUN
 che	PRON
 mai	ADV
-piede	VERB
-d	ADP
+piede	NOUN
+d'	ADP
 uomo	NOUN
 avesse	VERB
 fino	ADV
@@ -12961,7 +12961,7 @@ Almerigo	PROPN
 da	ADP
 Schio	PROPN
 e	CCONJ
-l	DET
+l'	DET
 ingegnere	NOUN
 Forlanini	PROPN
 recano	VERB
@@ -12980,8 +12980,8 @@ lo	DET
 stesso	ADJ
 Forlanini	PROPN
 inventa	VERB
-l	DET
-idroplano	PROPN
+l'	DET
+idroplano	NOUN
 .	PUNCT
 
 Numerosi	DET
@@ -13081,7 +13081,7 @@ già	ADV
 detto	VERB
 ,	PUNCT
 proprio	ADV
-all	ADP
+all'	ADP
 alba	NOUN
 del	ADP
 Regno	PROPN
@@ -13107,10 +13107,10 @@ abbia	AUX
 uguagliato	VERB
 nella	ADP
 potenza	NOUN
-dell	ADP
+dell'	ADP
 ingegno	NOUN
 e	CCONJ
-nell	ADP
+nell'	ADP
 arte	NOUN
 di	ADP
 governare	VERB
@@ -13123,7 +13123,7 @@ altri	ADJ
 uomini	NOUN
 politici	ADJ
 notevoli	ADJ
-l	DET
+l'	DET
 Italia	PROPN
 deve	AUX
 gratitudine	NOUN
@@ -13157,7 +13157,7 @@ e	CCONJ
 prima	ADV
 e	CCONJ
 dopo	ADP
-quest	DET
+quest'	DET
 anno	NOUN
 ;	PUNCT
 
@@ -13206,7 +13206,7 @@ giovinezza	NOUN
 amico	NOUN
 di	ADP
 Massimo	PROPN
-d	ADP
+d'	ADP
 Azeglio	PROPN
 con	ADP
 cui	PRON
@@ -13227,7 +13227,7 @@ nome	NOUN
 di	ADP
 Vittorio	PROPN
 Emanuele	PROPN
-nell	ADP
+nell'	ADP
 Emilia	PROPN
 .	PUNCT
 
@@ -13290,7 +13290,7 @@ dono	NOUN
 per	ADP
 i	DET
 servizi	NOUN
-ch	PRON
+ch'	SCONJ
 egli	PRON
 le	PRON
 aveva	AUX
@@ -13307,7 +13307,7 @@ dicendo	VERB
 queste	DET
 parole	NOUN
 degne	ADJ
-d	ADP
+d'	ADP
 un	DET
 romano	NOUN
 antico	ADJ
@@ -13349,7 +13349,7 @@ nuovo	ADJ
 regno	NOUN
 aveva	AUX
 avuto	VERB
-l	DET
+l'	DET
 alto	ADJ
 ufficio	NOUN
 di	ADP
@@ -13448,12 +13448,12 @@ volte	NOUN
 Ministro	NOUN
 del	ADP
 Regno	PROPN
-d	ADP
+d'	ADP
 Italia	PROPN
 .	PUNCT
 
 –	PUNCT
-L	DET
+L'	DET
 anno	NOUN
 seguente	ADJ
 ,	PUNCT
@@ -13469,10 +13469,10 @@ Piemonte	PROPN
 doveva	VERB
 la	DET
 ricostituzione	NOUN
-dell	ADP
+dell'	ADP
 esercito	NOUN
 e	CCONJ
-ch	PROPN
+ch'	SCONJ
 era	AUX
 stato	AUX
 comandante	NOUN
@@ -13531,7 +13531,7 @@ a	ADP
 lui	PRON
 si	PRON
 deve	AUX
-l	DET
+l'	DET
 alleanza	NOUN
 fra	ADP
 il	DET
@@ -13659,7 +13659,7 @@ il	DET
 nuovo	ADJ
 regno	NOUN
 ,	PUNCT
-l	DET
+l'	DET
 Italia	PROPN
 si	PRON
 trovò	VERB
@@ -13673,7 +13673,7 @@ chi	PRON
 gli	PRON
 diceva	VERB
 che	SCONJ
-l	DET
+l'	DET
 Italia	PROPN
 avrebbe	AUX
 ben	ADV
@@ -13696,7 +13696,7 @@ poteva	AUX
 macchiarsi	VERB
 della	ADP
 vergogna	NOUN
-d	ADP
+d'	ADP
 un	DET
 fallimento	NOUN
 .	PUNCT
@@ -13723,7 +13723,7 @@ alle	ADP
 ardite	ADJ
 imprese	NOUN
 e	CCONJ
-all	ADP
+all'	ADP
 amore	NOUN
 fortificante	ADJ
 della	ADP
@@ -13818,7 +13818,7 @@ e	CCONJ
 uomo	NOUN
 politico	ADJ
 ,	PUNCT
-ch	PROPN
+ch'	SCONJ
 era	AUX
 stato	AUX
 prodittatore	NOUN
@@ -13856,16 +13856,16 @@ Lissa	PROPN
 .	PUNCT
 
 Concluse	VERB
-l	DET
+l'	DET
 alleanza	NOUN
 fra	ADP
-l	DET
+l'	DET
 Italia	PROPN
 ,	PUNCT
 la	DET
 Germania	PROPN
 e	CCONJ
-l	DET
+l'	DET
 Austria	PROPN
 ,	PUNCT
 che	PRON
@@ -13917,7 +13917,7 @@ nel	ADP
 Pure	X
 nel	ADP
 1888	NUM
-l	DET
+l'	DET
 Italia	PROPN
 perdeva	VERB
 Pasquale	PROPN
@@ -13991,14 +13991,14 @@ nostra	DET
 .	PUNCT
 
 –	PUNCT
-L	DET
+L'	DET
 anno	NOUN
 seguente	ADJ
 (	PUNCT
 1889	NUM
 )	PUNCT
 tutta	DET
-l	DET
+l'	DET
 Italia	PROPN
 piangeva	VERB
 la	DET
@@ -14023,9 +14023,9 @@ nel	ADP
 nel	ADP
 1866	NUM
 ,	PUNCT
-ch	PROPN
+ch'	SCONJ
 era	AUX
-stato	VERB
+stato	AUX
 per	ADP
 30	NUM
 anni	NOUN
@@ -14172,7 +14172,7 @@ a	ADP
 grande	ADJ
 potenza	NOUN
 con	ADP
-l	DET
+l'	DET
 ordinamento	NOUN
 disciplinare	ADJ
 e	CCONJ
@@ -14202,7 +14202,7 @@ natali	NOUN
 (	PUNCT
 era	AUX
 figlio	NOUN
-d	ADP
+d'	ADP
 un	DET
 ciabattino	NOUN
 )	PUNCT
@@ -14286,7 +14286,7 @@ Sotto	ADP
 il	DET
 suo	DET
 governo	NOUN
-l	DET
+l'	DET
 Italia	PROPN
 ebbe	VERB
 a	ADP
@@ -14302,7 +14302,7 @@ Francia	PROPN
 e	CCONJ
 le	DET
 sconfitte	NOUN
-d	ADP
+d'	ADP
 Africa	PROPN
 .	PUNCT
 
@@ -14393,7 +14393,7 @@ Francia	PROPN
 .	PUNCT
 
 Diede	VERB
-all	ADP
+all'	ADP
 Italia	PROPN
 il	DET
 Codice	NOUN
@@ -14535,7 +14535,7 @@ Deputati	NOUN
 Nello	ADP
 stesso	ADJ
 anno	NOUN
-l	DET
+l'	DET
 Italia	PROPN
 perdeva	VERB
 Antonio	PROPN
@@ -14606,7 +14606,7 @@ uomini	NOUN
 politici	ADJ
 viventi	ADJ
 ,	PUNCT
-l	DET
+l'	DET
 Italia	PROPN
 conta	VERB
 Giovanni	PROPN
@@ -14637,7 +14637,7 @@ che	PRON
 non	ADV
 governarono	VERB
 ,	PUNCT
-l	DET
+l'	DET
 Italia	PROPN
 ebbe	VERB
 pure	ADV
@@ -14668,7 +14668,7 @@ Turchia	PROPN
 ,	PUNCT
 che	PRON
 minacciava	VERB
-l	DET
+l'	DET
 indipendenza	NOUN
 di	ADP
 quella	DET
@@ -14691,8 +14691,8 @@ nel	ADP
 1905	NUM
 .	PUNCT
 
-C	PROPN
-è	AUX
+C'	PRON
+è	VERB
 una	DET
 ragione	NOUN
 perché	SCONJ
@@ -14735,7 +14735,7 @@ lo	PRON
 so	VERB
 ,	PUNCT
 non	ADV
-c	PRON
+c'	PRON
 è	VERB
 da	ADP
 queste	DET
@@ -14750,13 +14750,13 @@ terra	NOUN
 né	CCONJ
 delle	ADP
 ossa	NOUN
-ch	PROPN
+ch'	CCONJ
 io	PRON
 possa	AUX
 dire	VERB
 “	PUNCT
 Ecco	ADV
-cos	ADV
+cos'	PRON
 ero	AUX
 prima	ADV
 di	ADP
@@ -14924,8 +14924,8 @@ tutta	DET
 gente	NOUN
 che	PRON
 non	ADV
-c	PRON
-è	AUX
+c'	PRON
+è	VERB
 piú	ADV
 ,	PUNCT
 anche	ADV
@@ -14938,7 +14938,7 @@ e	CCONJ
 allevato	VERB
 soltanto	ADV
 perché	SCONJ
-l	DET
+l'	DET
 ospedale	NOUN
 di	ADP
 Alessandria	PROPN
@@ -14951,11 +14951,11 @@ mesata	NOUN
 Su	ADP
 queste	DET
 colline	NOUN
-quarant	NUM
+quarant'	NUM
 anni	NOUN
 fa	ADV
-c	PRON
-erano	AUX
+c'	PRON
+erano	VERB
 dei	DET
 dannati	NOUN
 che	PRON
@@ -14963,13 +14963,13 @@ per	ADP
 vedere	VERB
 uno	DET
 scudo	NOUN
-d	ADP
+d'	ADP
 argento	NOUN
 si	PRON
 caricavano	VERB
 un	DET
 bastardo	NOUN
-dell	ADP
+dell'	ADP
 ospedale	NOUN
 ,	PUNCT
 oltre	ADV
@@ -14980,8 +14980,8 @@ avevano	VERB
 già	ADV
 .	PUNCT
 
-C	PROPN
-era	AUX
+C'	PRON
+era	VERB
 chi	PRON
 prendeva	VERB
 una	DET
@@ -15087,7 +15087,7 @@ a	ADP
 dieci	NUM
 anni	NOUN
 ,	PUNCT
-nell	ADP
+nell'	ADP
 inverno	NOUN
 quando	SCONJ
 morì	VERB
@@ -15105,7 +15105,7 @@ fratello	NOUN
 .	PUNCT
 
 Da	ADP
-quell	DET
+quell'	DET
 inverno	NOUN
 Angiolina	NOUN
 giudiziosa	ADJ
@@ -15176,7 +15176,7 @@ bastardi	NOUN
 
 Adesso	ADV
 sapevo	VERB
-ch	PROPN
+ch'	SCONJ
 eravamo	AUX
 dei	DET
 miserabili	NOUN
@@ -15188,7 +15188,7 @@ miserabili	NOUN
 allevano	VERB
 i	DET
 bastardi	NOUN
-dell	ADP
+dell'	ADP
 ospedale	NOUN
 .	PUNCT
 
@@ -15269,7 +15269,7 @@ sotto	ADP
 i	DET
 noccioli	NOUN
 o	CCONJ
-dall	ADP
+dall'	ADP
 orecchio	NOUN
 della	ADP
 nostra	DET
@@ -15279,8 +15279,8 @@ le	DET
 ragazze	NOUN
 .	PUNCT
 
-L	DET
-altr	NOUN
+L'	DET
+altr'	ADJ
 anno	NOUN
 ,	PUNCT
 quando	SCONJ
@@ -15355,7 +15355,7 @@ sentieri	NOUN
 era	AUX
 come	SCONJ
 scorticata	VERB
-dall	ADP
+dall'	ADP
 inverno	NOUN
 ,	PUNCT
 mostrava	VERB
@@ -15467,7 +15467,7 @@ freddo	NOUN
 della	ADP
 sera	NOUN
 sentii	VERB
-l	DET
+l'	DET
 odore	NOUN
 del	ADP
 letame	NOUN
@@ -15490,7 +15490,7 @@ come	ADP
 noi	PRON
 .	PUNCT
 
-M	PROPN
+M'	PROPN
 ero	AUX
 sempre	ADV
 aspettato	VERB
@@ -15509,7 +15509,7 @@ crollato	VERB
 
 tante	DET
 volte	NOUN
-m	NOUN
+m'	PRON
 ero	AUX
 immaginato	VERB
 sulla	ADP
@@ -15518,7 +15518,7 @@ del	ADP
 ponte	NOUN
 a	ADP
 chiedermi	VERB
-com	PROPN
+com'	SCONJ
 era	AUX
 stato	AUX
 possibile	ADJ
@@ -15577,7 +15577,7 @@ noccioli	NOUN
 
 Voleva	AUX
 dire	VERB
-ch	PROPN
+ch'	SCONJ
 era	AUX
 tutto	PRON
 finito	VERB
@@ -15595,7 +15595,7 @@ chiamai	VERB
 ,	PUNCT
 non	ADV
 entrai	VERB
-sull	ADP
+sull'	ADP
 aia	NOUN
 .	PUNCT
 
@@ -15665,7 +15665,7 @@ fossi	AUX
 stato	AUX
 padrone	NOUN
 ,	PUNCT
-l	PRON
+l'	PRON
 avrei	AUX
 magari	ADV
 roncata	VERB
@@ -15679,7 +15679,7 @@ intanto	ADV
 adesso	ADV
 mi	PRON
 faceva	VERB
-l	DET
+l'	DET
 effetto	NOUN
 di	ADP
 quelle	DET
@@ -15808,7 +15808,7 @@ fino	ADV
 alla	DET
 leva	NOUN
 ,	PUNCT
-ch	PROPN
+ch'	SCONJ
 ero	AUX
 stato	AUX
 servitore	NOUN
@@ -15831,8 +15831,8 @@ casotto	NOUN
 di	ADP
 Gaminella	PROPN
 ,	PUNCT
-se	SCONJ
-n	X
+se	PRON
+n'	PRON
 era	AUX
 andato	VERB
 con	ADP
@@ -15921,7 +15921,7 @@ Adesso	ADV
 che	SCONJ
 il	DET
 mondo	NOUN
-l	PRON
+l'	PRON
 ho	AUX
 visto	VERB
 davvero	ADV
@@ -15989,7 +15989,7 @@ rotti	ADJ
 
 Si	PRON
 fa	VERB
-l	DET
+l'	DET
 uva	NOUN
 e	CCONJ
 la	PRON
@@ -16010,8 +16010,8 @@ in	ADP
 Alba	PROPN
 .	PUNCT
 
-C	PROPN
-è	AUX
+C'	PRON
+è	VERB
 Nuto	VERB
 il	DET
 mio	DET
@@ -16074,8 +16074,8 @@ piante	NOUN
 ,	PUNCT
 nella	ADP
 terra	NOUN
-c	PRON
-è	AUX
+c'	PRON
+è	VERB
 qualcosa	PRON
 di	ADP
 tuo	PRON
@@ -16105,7 +16105,7 @@ anno	NOUN
 che	PRON
 lo	PRON
 tengo	VERB
-d	ADP
+d'	ADP
 occhio	NOUN
 e	CCONJ
 quando	SCONJ
@@ -16128,14 +16128,14 @@ capiscono	VERB
 col	ADP
 tempo	NOUN
 e	CCONJ
-l	DET
+l'	DET
 esperienza	NOUN
 .	PUNCT
 
 Possibile	ADJ
 che	SCONJ
 a	ADP
-quarant	NUM
+quarant'	NUM
 anni	NOUN
 ,	PUNCT
 e	CCONJ
@@ -16151,15 +16151,15 @@ non	ADV
 sappia	VERB
 ancora	ADV
 che	SCONJ
-cos	ADV
+cos'	PRON
 è	AUX
 il	DET
 mio	DET
 paese	NOUN
 ?	PUNCT
 
-C	PROPN
-è	AUX
+C'	PRON
+è	VERB
 qualcosa	PRON
 che	PRON
 non	ADV
@@ -16183,7 +16183,7 @@ casa	NOUN
 e	CCONJ
 mi	PRON
 chiamano	VERB
-l	DET
+l'	DET
 Americano	PROPN
 ,	PUNCT
 mi	PRON
@@ -16357,9 +16357,9 @@ di	ADP
 questa	DET
 guerra	NOUN
 ,	PUNCT
-l	DET
+l'	DET
 Italia	PROPN
-s	PROPN
+s'	PRON
 era	AUX
 dichiarata	VERB
 neutrale	ADJ
@@ -16373,7 +16373,7 @@ ne	PRON
 aveva	AUX
 inutilmente	ADV
 sollecitato	VERB
-l	DET
+l'	DET
 aiuto	NOUN
 ,	PUNCT
 aveva	AUX
@@ -16456,7 +16456,7 @@ Roma	PROPN
 una	DET
 rivoluzione	NOUN
 ,	PUNCT
-l	DET
+l'	DET
 Italia	PROPN
 era	VERB
 nella	ADP
@@ -16504,14 +16504,14 @@ lettera	NOUN
 «	PUNCT
 Io	PRON
 veggo	VERB
-l	DET
+l'	DET
 indeclinabile	ADJ
 necessità	NOUN
 ,	PUNCT
 per	ADP
 la	DET
 sicurezza	NOUN
-dell	ADP
+dell'	ADP
 Italia	PROPN
 e	CCONJ
 della	ADP
@@ -16548,7 +16548,7 @@ Santità	PROPN
 e	CCONJ
 pel	ADP
 mantenimento	NOUN
-dell	ADP
+dell'	ADP
 ordine	NOUN
 .	PUNCT
 
@@ -16590,7 +16590,7 @@ straniere	ADJ
 avrà	AUX
 dato	VERB
 compimento	NOUN
-all	ADP
+all'	ADP
 opera	NOUN
 meravigliosa	ADJ
 e	CCONJ
@@ -16614,12 +16614,12 @@ Germania	PROPN
 ,	PUNCT
 questa	PRON
 ,	PUNCT
-l	DET
+l'	DET
 Austria	PROPN
 stessa	ADJ
 e	CCONJ
 tutte	DET
-l	DET
+l'	DET
 altre	ADJ
 potenze	NOUN
 europee	ADJ
@@ -16629,7 +16629,7 @@ al	ADP
 gran	ADJ
 passo	NOUN
 che	SCONJ
-l	DET
+l'	DET
 Italia	PROPN
 voleva	AUX
 movere	VERB
@@ -16651,7 +16651,7 @@ Governo	NOUN
 italiano	ADJ
 ordinò	VERB
 che	SCONJ
-l	DET
+l'	DET
 occupazione	NOUN
 di	ADP
 Roma	PROPN
@@ -16705,7 +16705,7 @@ arresero	VERB
 prigionieri	NOUN
 .	PUNCT
 
-L	DET
+L'	DET
 Italia	PROPN
 aveva	VERB
 così	ADV
@@ -16751,9 +16751,9 @@ degli	ADP
 Stati	NOUN
 pontifici	ADJ
 per	ADP
-l	DET
+l'	DET
 unione	NOUN
-all	ADP
+all'	ADP
 Italia	PROPN
 ,	PUNCT
 e	CCONJ
@@ -16816,7 +16816,7 @@ modesto	ADJ
 ,	PUNCT
 in	ADP
 occasione	NOUN
-d	ADP
+d'	ADP
 uno	DET
 straripamento	NOUN
 del	ADP
@@ -16840,7 +16840,7 @@ aiuto	NOUN
 e	CCONJ
 inaugurando	VERB
 così	ADV
-quell	DET
+quell'	DET
 opera	NOUN
 di	ADP
 generosa	ADJ
@@ -16880,7 +16880,7 @@ i	DET
 443	NUM
 deputati	NOUN
 ,	PUNCT
-ch	PROPN
+ch'	SCONJ
 erano	AUX
 stati	AUX
 allora	ADV
@@ -16909,7 +16909,7 @@ assetto	NOUN
 »	PUNCT
 
 «	PUNCT
-Nell	PROPN
+Nell'	ADP
 attribuire	VERB
 le	DET
 maggiori	ADJ
@@ -16932,7 +16932,7 @@ Re	PROPN
 –	PUNCT
 veglierete	VERB
 perché	SCONJ
-l	DET
+l'	DET
 unità	NOUN
 politica	ADJ
 ,	PUNCT
@@ -16979,7 +16979,7 @@ sopportato	VERB
 la	DET
 prigionia	NOUN
 e	CCONJ
-l	DET
+l'	DET
 esilio	NOUN
 austriaco	ADJ
 ,	PUNCT
@@ -17032,7 +17032,7 @@ il	DET
 titolo	NOUN
 di	ADP
 Re	PROPN
-d	ADP
+d'	ADP
 Italia	PROPN
 ,	PUNCT
 e	CCONJ
@@ -17101,12 +17101,12 @@ ammoniva	VERB
 il	DET
 mondo	NOUN
 intero	ADJ
-che	PRON
-l	DET
+che	SCONJ
+l'	DET
 opera	NOUN
 di	ADP
 resurrezione	NOUN
-dell	ADP
+dell'	ADP
 Italia	PROPN
 non	ADV
 poteva	AUX
@@ -17127,7 +17127,7 @@ dei	ADP
 suoi	DET
 confini	NOUN
 ,	PUNCT
-l	DET
+l'	DET
 Italia	PROPN
 si	PRON
 fosse	AUX
@@ -17155,15 +17155,15 @@ da	ADP
 Roma	PROPN
 .	PUNCT
 
-L	DET
+L'	DET
 Italia	PROPN
 ,	PUNCT
 che	PRON
-s	PRON
+s'	PRON
 era	AUX
 costituita	VERB
 garante	NOUN
-dell	ADP
+dell'	ADP
 integrità	NOUN
 del	ADP
 territorio	NOUN
@@ -17260,7 +17260,7 @@ ad	ADP
 onta	NOUN
 dei	ADP
 patti	NOUN
-ch	PROPN
+ch'	SCONJ
 erano	AUX
 stati	AUX
 stretti	VERB
@@ -17272,7 +17272,7 @@ Francia	PROPN
 A	ADP
 tal	DET
 fine	NOUN
-s	PROPN
+s'	PRON
 erano	AUX
 formati	VERB
 dovunque	SCONJ
@@ -17305,7 +17305,7 @@ Eterna	PROPN
 Il	DET
 Governo	NOUN
 ,	PUNCT
-ch	PROPN
+ch'	SCONJ
 era	AUX
 allora	ADV
 retto	VERB
@@ -17331,13 +17331,13 @@ rivoluzionario	ADJ
 su	ADP
 Roma	PROPN
 giustificasse	VERB
-l	DET
+l'	DET
 intervento	NOUN
 armato	ADJ
-dell	ADP
+dell'	ADP
 Italia	PROPN
 e	CCONJ
-l	DET
+l'	DET
 occupazione	NOUN
 della	ADP
 città	NOUN
@@ -17352,7 +17352,7 @@ uscita	NOUN
 .	PUNCT
 
 Ma	CCONJ
-all	ADP
+all'	ADP
 improvviso	ADJ
 ,	PUNCT
 per	ADP
@@ -17401,7 +17401,7 @@ a	ADP
 Caprera	PROPN
 .	PUNCT
 
-L	DET
+L'	DET
 arresto	NOUN
 di	ADP
 Garibaldi	PROPN
@@ -17477,7 +17477,7 @@ Stato	PROPN
 Pontificio	PROPN
 per	ADP
 ristabilirvi	NOUN
-l	DET
+l'	DET
 ordine	NOUN
 ;	PUNCT
 
@@ -17521,13 +17521,13 @@ di	ADP
 Civitavecchia	PROPN
 .	PUNCT
 
-L	DET
+L'	DET
 Italia	PROPN
 nostra	DET
 perdette	VERB
 in	ADP
 questi	DET
-cinquant	NUM
+cinquant'	NUM
 anni	NOUN
 parecchi	DET
 suoi	DET
@@ -17546,11 +17546,11 @@ Nel	ADP
 1866	NUM
 morì	VERB
 Massimo	PROPN
-D	PROPN
+D'	PROPN
 Azeglio	PROPN
 ,	PUNCT
 che	PRON
-l	PRON
+l'	PRON
 aveva	AUX
 onorata	VERB
 ,	PUNCT
@@ -17574,7 +17574,7 @@ Ettore	PROPN
 Fieramosca	PROPN
 e	CCONJ
 Nicolò	PROPN
-de	ADP
+de'	PROPN
 Lapi	PROPN
 .	PUNCT
 
@@ -17583,7 +17583,7 @@ Francesco	PROPN
 Domenico	PROPN
 Guerrazzi	PROPN
 ,	PUNCT
-anch	ADV
+anch'	ADV
 egli	PRON
 patriota	NOUN
 ,	PUNCT
@@ -17603,9 +17603,9 @@ anno	NOUN
 spirò	VERB
 Alessandro	PROPN
 Manzoni	PROPN
-l	DET
+l'	DET
 autore	NOUN
-dell	ADP
+dell'	ADP
 immortale	ADJ
 romanzo	NOUN
 I	DET
@@ -17639,7 +17639,7 @@ e	CCONJ
 letterato	ADJ
 ,	PUNCT
 cui	PRON
-l	DET
+l'	DET
 Italia	PROPN
 deve	AUX
 ,	PUNCT
@@ -17692,7 +17692,7 @@ nel	ADP
 1884	NUM
 .	PUNCT
 
-L	DET
+L'	DET
 anno	NOUN
 prima	ADV
 era	AUX
@@ -17783,7 +17783,7 @@ giovinezza	NOUN
 infiammato	VERB
 gli	DET
 Italiani	NOUN
-all	ADP
+all'	ADP
 amor	NOUN
 patrio	ADJ
 .	PUNCT
@@ -17926,11 +17926,11 @@ commediografo	NOUN
 )	PUNCT
 –	PUNCT
 furono	AUX
-anch	ADV
+anch'	ADV
 essi	PRON
 illustri	ADJ
 figli	NOUN
-d	ADP
+d'	ADP
 Italia	PROPN
 ,	PUNCT
 che	PRON
@@ -17952,9 +17952,9 @@ più	ADV
 di	ADP
 tutti	PRON
 per	ADP
-l	DET
+l'	DET
 altezza	NOUN
-dell	ADP
+dell'	ADP
 ingegno	NOUN
 fu	AUX
 Giosuè	PROPN
@@ -18003,7 +18003,7 @@ e	CCONJ
 nello	ADP
 stesso	ADJ
 anno	NOUN
-l	DET
+l'	DET
 Italia	PROPN
 perdette	VERB
 un	DET
@@ -18016,7 +18016,7 @@ Edmondo	PROPN
 De	PROPN
 Amicis	PROPN
 ,	PUNCT
-l	DET
+l'	DET
 autore	NOUN
 di	ADP
 magnifici	ADJ
@@ -18037,7 +18037,7 @@ Spagna	PROPN
 il	DET
 Marocco	PROPN
 ,	PUNCT
-Sull	PROPN
+Sull'	ADP
 Oceano	PROPN
 ,	PUNCT
 La	DET
@@ -18047,7 +18047,7 @@ tutti	PRON
 ,	PUNCT
 Alle	ADP
 porte	NOUN
-d	ADP
+d'	ADP
 Italia	PROPN
 ecc.	ADV
 
@@ -18084,7 +18084,7 @@ scrittore	NOUN
 di	ADP
 bellissimi	ADJ
 libri	NOUN
-d	ADP
+d'	ADP
 igiene	NOUN
 ;	PUNCT
 
@@ -18110,7 +18110,7 @@ viventi	ADJ
 che	PRON
 più	ADV
 onorano	VERB
-l	DET
+l'	DET
 Italia	PROPN
 nostra	DET
 ,	PUNCT
@@ -18124,7 +18124,7 @@ poeta	NOUN
 ;	PUNCT
 
 Gabriele	PROPN
-D	PROPN
+D'	PROPN
 Annunzio	PROPN
 ,	PUNCT
 poeta	NOUN
@@ -18277,7 +18277,7 @@ e	CCONJ
 nella	ADP
 scultura	NOUN
 onorarono	VERB
-l	DET
+l'	DET
 Italia	PROPN
 :	PUNCT
 
@@ -18515,7 +18515,7 @@ gli	DET
 animi	NOUN
 sia	CCONJ
 contro	ADP
-l	DET
+l'	DET
 ex	ADJ
 alleato	NOUN
 del	ADP
@@ -18562,7 +18562,7 @@ onesti	ADJ
 ,	PUNCT
 non	ADV
 sempre	ADV
-all	ADP
+all'	ADP
 altezza	NOUN
 dei	ADP
 tempi	NOUN
@@ -18617,8 +18617,8 @@ più	ADV
 .	PUNCT
 
 Fortuna	PROPN
-che	PRON
-l	DET
+che	SCONJ
+l'	DET
 Inghilterra	PROPN
 dichiarò	VERB
 subito	ADV
@@ -18748,7 +18748,7 @@ patrioti	NOUN
 che	PRON
 nel	ADP
 1867	NUM
-s	NUM
+s'	PRON
 erano	AUX
 sollevati	VERB
 per	ADP
@@ -18793,7 +18793,7 @@ aprile	NOUN
 da	ADP
 cui	PRON
 nasceva	VERB
-l	DET
+l'	DET
 11	NUM
 novembre	NOUN
 1869	NUM
@@ -18804,7 +18804,7 @@ Emanuele	PROPN
 ,	PUNCT
 attuale	ADJ
 Re	PROPN
-d	ADP
+d'	ADP
 Italia	PROPN
 .	PUNCT
 
@@ -18873,7 +18873,7 @@ sua	DET
 vita	NOUN
 :	PUNCT
 
-l	DET
+l'	DET
 uno	PRON
 a	ADP
 Napoli	PROPN
@@ -18888,7 +18888,7 @@ Benedetto	PROPN
 Cairoli	PROPN
 ;	PUNCT
 
-l	DET
+l'	DET
 altro	PRON
 a	ADP
 Roma	PROPN
@@ -18933,8 +18933,8 @@ Alleanza	PROPN
 ,	PUNCT
 fu	AUX
 abolita	VERB
-l	DET
-imposta	VERB
+l'	DET
+imposta	NOUN
 sul	ADP
 macinato	NOUN
 ,	PUNCT
@@ -19058,7 +19058,7 @@ sanguinose	ADJ
 e	CCONJ
 disastrose	ADJ
 (	PUNCT
-nell	ADP
+nell'	ADP
 ultima	ADJ
 ,	PUNCT
 –	PUNCT
@@ -19102,7 +19102,7 @@ gravi	ADJ
 in	ADP
 varie	DET
 parti	NOUN
-d	ADP
+d'	ADP
 Italia	PROPN
 ,	PUNCT
 che	PRON
@@ -19115,19 +19115,19 @@ sanguinose	ADJ
 il	DET
 commercio	NOUN
 e	CCONJ
-l	DET
+l'	DET
 industria	NOUN
 ebbero	VERB
 momenti	NOUN
 difficili	ADJ
 ;	PUNCT
 
-l	DET
+l'	DET
 emigrazione	NOUN
 dei	ADP
 nostri	DET
 contadini	NOUN
-all	ADP
+all'	ADP
 estero	NOUN
 aumentò	VERB
 ,	PUNCT
@@ -19217,7 +19217,7 @@ a	ADP
 somigliargli	VERB
 
 Entrai	VERB
-nell	ADP
+nell'	ADP
 aia	NOUN
 (	PUNCT
 di	ADP
@@ -19229,14 +19229,14 @@ avventò	NOUN
 )	PUNCT
 ,	PUNCT
 dissi	VERB
-ch	PROPN
+ch'	SCONJ
 io	PRON
 su	ADP
-quell	DET
+quell'	DET
 aia	NOUN
-c	PRON
+c'	PRON
 ero	AUX
-stato	AUX
+stato	VERB
 bambino	NOUN
 .	PUNCT
 
@@ -19262,7 +19262,7 @@ borbottò	PROPN
 inquieta	VERB
 ;	PUNCT
 
-l	DET
+l'	DET
 altra	PRON
 si	PRON
 chinò	VERB
@@ -19272,7 +19272,7 @@ il	DET
 rastrello	NOUN
 caduto	VERB
 davanti	ADV
-all	DET
+all'	DET
 uscio	NOUN
 ,	PUNCT
 poi	ADV
@@ -19294,7 +19294,7 @@ dissi	VERB
 che	SCONJ
 non	ADV
 ce	PRON
-n	X
+n'	PRON
 era	VERB
 bisogno	NOUN
 ,	PUNCT
@@ -19310,7 +19310,7 @@ di	ADP
 rivedere	VERB
 la	DET
 casa	NOUN
-dov	AUX
+dov'	ADV
 ero	AUX
 cresciuto	VERB
 ,	PUNCT
@@ -19342,7 +19342,7 @@ chiesi	VERB
 
 -	PUNCT
 E	CCONJ
-cos	ADV
+cos'	PRON
 ha	VERB
 questo	DET
 ragazzo	NOUN
@@ -19384,7 +19384,7 @@ occhi	NOUN
 Conoscevo	VERB
 questo	DET
 gioco	NOUN
-anch	ADV
+anch'	ADV
 io	PRON
 .	PUNCT
 
@@ -19392,7 +19392,7 @@ Dissi	PROPN
 :	PUNCT
 
 -	PUNCT
-Cos	PROPN
+Cos'	PRON
 hai	VERB
 ?	PUNCT
 
@@ -19418,9 +19418,9 @@ la	DET
 gamba	NOUN
 di	ADP
 Cinto	PROPN
-quell	DET
+quell'	DET
 anno	NOUN
-ch	PRON
+ch'	SCONJ
 era	AUX
 morta	VERB
 Mentina	PROPN
@@ -19428,7 +19428,7 @@ Mentina	PROPN
 quando	SCONJ
 stavano	VERB
 ancora	ADV
-all	ADP
+all'	ADP
 Orto	NOUN
 -	PUNCT
 Mentina	PROPN
@@ -19470,7 +19470,7 @@ che	SCONJ
 gli	DET
 altri	ADJ
 figli	NOUN
-ch	PRON
+ch'	SCONJ
 eran	AUX
 morti	VERB
 soldati	NOUN
@@ -19505,7 +19505,7 @@ latte	NOUN
 
 Il	DET
 dottore	NOUN
-l	PRON
+l'	PRON
 aveva	AUX
 strapazzata	VERB
 ,	PUNCT
@@ -19548,7 +19548,7 @@ dottore	NOUN
 ma	CCONJ
 adesso	ADV
 non	ADV
-c	PRON
+c'	PRON
 era	VERB
 piú	PUNCT
 tempo	NOUN
@@ -19567,7 +19567,7 @@ venuti	VERB
 sani	ADJ
 ,	PUNCT
 e	CCONJ
-l	DET
+l'	DET
 indomani	NOUN
 era	AUX
 morta	VERB
@@ -19602,7 +19602,7 @@ e	CCONJ
 quella	DET
 crosta	NOUN
 sotto	ADP
-l	DET
+l'	DET
 occhio	NOUN
 -	PUNCT
 ,	PUNCT
@@ -19648,7 +19648,7 @@ ragazzo	NOUN
 Muoviti	PROPN
 .	PUNCT
 
-Va	VERB
+Va'	X
 a	ADP
 vedere	VERB
 anche	ADV
@@ -19690,7 +19690,7 @@ la	DET
 vigna	NOUN
 ,	PUNCT
 invece	ADV
-dell	ADP
+dell'	ADP
 ombra	NOUN
 nera	ADJ
 dei	ADP
@@ -19705,7 +19705,7 @@ bassa	ADJ
 ,	PUNCT
 tanto	ADV
 che	SCONJ
-l	DET
+l'	DET
 occhio	NOUN
 ci	PRON
 spaziava	VERB
@@ -19774,14 +19774,14 @@ con	ADP
 le	DET
 ragazze	NOUN
 su	ADP
-quell	PROPN
+quell'	DET
 erba	NOUN
 ,	PUNCT
 avere	AUX
 aspettato	VERB
 nelle	ADP
 giornate	NOUN
-d	ADP
+d'	ADP
 inverno	NOUN
 un	DET
 po'	NOUN
@@ -19931,7 +19931,7 @@ fondo	NOUN
 alla	ADP
 riva	NOUN
 ce	PRON
-n	X
+n'	PRON
 era	VERB
 ancora	ADV
 qualche	DET
@@ -19953,7 +19953,7 @@ nera	ADJ
 che	PRON
 ci	PRON
 osservava	VERB
-dall	ADP
+dall'	ADP
 aia	NOUN
 .	PUNCT
 
@@ -19987,7 +19987,7 @@ un	DET
 tempo	NOUN
 ero	AUX
 stato	AUX
-anch	ADV
+anch'	ADV
 io	PRON
 come	ADP
 lui	PRON
@@ -20033,7 +20033,7 @@ come	ADP
 me	PRON
 e	CCONJ
 io	PRON
-l	PRON
+l'	PRON
 avessi	AUX
 accompagnato	VERB
 nei	ADP
@@ -20043,7 +20043,7 @@ beni	NOUN
 Ebbi	VERB
 un	DET
 momento	NOUN
-l	DET
+l'	DET
 illusione	NOUN
 che	PRON
 a	ADP
@@ -20147,17 +20147,17 @@ mi	PRON
 disse	VERB
 .	PUNCT
 
-Dov	PROPN
+Dov'	ADV
 eravamo	AUX
 ,	PUNCT
 dietro	ADP
 la	DET
 vigna	NOUN
 ,	PUNCT
-c	PRON
-era	AUX
+c'	PRON
+era	VERB
 ancora	ADV
-dell	ADP
+dell'	ADP
 erba	NOUN
 ,	PUNCT
 la	DET
@@ -20214,7 +20214,7 @@ diceva	VERB
 che	SCONJ
 qualcuno	PRON
 ce	PRON
-n	X
+n'	PRON
 era	VERB
 ancora	ADV
 .	PUNCT
@@ -20223,14 +20223,14 @@ Poi	ADV
 gli	PRON
 chiesi	NOUN
 se	SCONJ
-c	PRON
-era	AUX
+c'	PRON
+era	VERB
 sempre	ADV
 quel	DET
 nido	NOUN
 dei	ADP
 fringuelli	NOUN
-sull	ADP
+sull'	ADP
 albero	NOUN
 che	PRON
 spuntava	VERB
@@ -20344,7 +20344,7 @@ uguale	ADJ
 ,	PUNCT
 tutto	PRON
 aveva	VERB
-quell	DET
+quell'	DET
 odore	NOUN
 ,	PUNCT
 quel	DET
@@ -20352,7 +20352,7 @@ gusto	NOUN
 ,	PUNCT
 quel	DET
 colore	NOUN
-d	ADP
+d'	ADP
 allora	ADV
 .	PUNCT
 
@@ -20374,7 +20374,7 @@ a	ADP
 Canelli	PROPN
 .	PUNCT
 
-C	PROPN
+C'	PRON
 era	AUX
 stato	VERB
 sul	ADP
@@ -20386,7 +20386,7 @@ era	AUX
 andato	VERB
 a	ADP
 vendere	VERB
-l	DET
+l'	DET
 uva	NOUN
 da	ADP
 Gancia	PROPN
@@ -20424,8 +20424,8 @@ era	AUX
 piú	ADJ
 grande	ADJ
 ,	PUNCT
-c	PRON
-era	AUX
+c'	PRON
+era	VERB
 gente	NOUN
 che	PRON
 la	PRON
@@ -20438,7 +20438,7 @@ uomini	NOUN
 avevano	VERB
 la	DET
 catena	NOUN
-d	ADP
+d'	ADP
 oro	NOUN
 al	ADP
 gilè	PROPN
@@ -20493,8 +20493,8 @@ i	DET
 sindaci	NOUN
 .	PUNCT
 
-C	PROPN
-erano	AUX
+C'	PRON
+erano	VERB
 delle	DET
 case	NOUN
 -	PUNCT
@@ -20521,10 +20521,10 @@ quindici	NUM
 in	ADP
 venti	NUM
 ,	PUNCT
-come	ADP
-all	DET
+come	ADV
+all’	ADP
 albergo	NOUN
-dell	ADP
+dell'	ADP
 Angelo	PROPN
 ,	PUNCT
 e	CCONJ
@@ -20551,14 +20551,14 @@ aie	NOUN
 e	CCONJ
 giocavamo	VERB
 ,	PUNCT
-d	ADP
+d'	ADP
 estate	NOUN
 ,	PUNCT
 alla	ADP
 settimana	NOUN
 ;	PUNCT
 
-d	ADP
+d'	ADP
 inverno	NOUN
 ,	PUNCT
 alla	ADP
@@ -20667,8 +20667,8 @@ si	PRON
 vedeva	VERB
 ,	PUNCT
 non	ADV
-c	PRON
-erano	AUX
+c'	PRON
+erano	VERB
 quegli	DET
 alberi	NOUN
 -	PUNCT
@@ -20706,7 +20706,7 @@ la	DET
 sua	DET
 crosta	NOUN
 sotto	ADP
-l	DET
+l'	DET
 occhio	NOUN
 ,	PUNCT
 seduto	VERB
@@ -20743,7 +20743,7 @@ in	ADP
 pastura	NOUN
 .	PUNCT
 
-D	PROPN
+D'	ADP
 inverno	NOUN
 quando	SCONJ
 non	ADV
@@ -20763,12 +20763,12 @@ andare	VERB
 nella	ADP
 riva	NOUN
 ,	PUNCT
-tant	X
+tant'	ADV
 acqua	NOUN
 e	CCONJ
-galaverna	PROPN
+galaverna	NOUN
 che	PRON
-c	PRON
+c'	PRON
 era	VERB
 ,	PUNCT
 e	CCONJ
@@ -20840,11 +20840,11 @@ riva	NOUN
 -	PUNCT
 Nella	ADP
 riva	NOUN
-l	DET
-altr	NOUN
+l'	DET
+altr'	ADJ
 anno	NOUN
-c	PRON
-era	AUX
+c'	PRON
+era	VERB
 un	DET
 morto	NOUN
 ,	PUNCT
@@ -20873,7 +20873,7 @@ disse	VERB
 
 -	PUNCT
 Che	SCONJ
-l	PRON
+l'	PRON
 avevano	AUX
 sepolto	VERB
 i	DET
@@ -20908,17 +20908,17 @@ nella	ADP
 riva	NOUN
 .	PUNCT
 
-L	DET
+L'	DET
 acqua	NOUN
-l	PRON
+l'	PRON
 ha	AUX
 portato	VERB
 in	ADP
 basso	NOUN
 e	CCONJ
 il	DET
-Pa	PROPN
-l	PRON
+Pa	PRON
+l'	PRON
 ha	AUX
 trovato	VERB
 sotto	ADP
@@ -20987,8 +20987,8 @@ parlavano	VERB
 Subito	ADV
 li	PRON
 richiuse	VERB
-d	ADP
-istinto	ADJ
+d'	ADP
+istinto	NOUN
 ,	PUNCT
 e	CCONJ
 negò	PROPN
@@ -21006,11 +21006,11 @@ gli	PRON
 dissi	VERB
 che	SCONJ
 facevo	VERB
-anch	ADV
+anch'	ADV
 io	PRON
 questo	DET
 gioco	NOUN
-quand	PRON
+quand'	SCONJ
 ero	AUX
 ragazzo	NOUN
 -	PUNCT
@@ -21033,7 +21033,7 @@ a	ADP
 ritrovare	VERB
 le	DET
 cose	NOUN
-com	PROPN
+com'	SCONJ
 erano	VERB
 .	PUNCT
 
@@ -21072,7 +21072,7 @@ Un	DET
 urlo	NOUN
 della	ADP
 donna	NOUN
-dall	ADP
+dall'	ADP
 aia	NOUN
 ,	PUNCT
 che	PRON
@@ -21105,7 +21105,7 @@ si	PRON
 capiva	VERB
 piú	PUNCT
 come	ADP
-l	DET
+l'	PRON
 avevano	AUX
 ammazzato	VERB
 ,	PUNCT
@@ -21154,7 +21154,7 @@ capitozzo	NOUN
 i	DET
 rami	NOUN
 rossi	ADJ
-d	ADP
+d'	ADP
 un	DET
 salice	NOUN
 .	PUNCT
@@ -21181,11 +21181,11 @@ riva	NOUN
 una	DET
 volta	NOUN
 portava	VERB
-dell	DET
+dell'	DET
 acqua	NOUN
 ,	PUNCT
 che	PRON
-d	ADP
+d'	ADP
 estate	NOUN
 faceva	VERB
 pozza	NOUN
@@ -21200,9 +21200,9 @@ salici	NOUN
 a	ADP
 stagionare	VERB
 ,	PUNCT
-quest	DET
+quest'	DET
 anno	NOUN
-ch	PRON
+ch'	SCONJ
 era	AUX
 cosí	PROPN
 asciutto	ADJ
@@ -21261,12 +21261,12 @@ verderame	NOUN
 .	PUNCT
 
 -	PUNCT
-C	PROPN
+C'	PRON
 è	VERB
-un	DET
+un'	DET
 uva	NOUN
 bella	ADJ
-quest	DET
+quest'	DET
 anno	NOUN
 ,	PUNCT
 -	PUNCT
@@ -21278,7 +21278,7 @@ manca	VERB
 solo	ADV
 un	DET
 po'	NOUN
-d	ADP
+d'	ADP
 acqua	NOUN
 .	PUNCT
 
@@ -21308,7 +21308,7 @@ viene	VERB
 Allora	ADV
 gli	PRON
 spiegai	VERB
-ch	PROPN
+ch'	SCONJ
 ero	AUX
 passato	VERB
 per	ADP
@@ -21328,7 +21328,7 @@ la	PRON
 conoscevo	VERB
 piú	PUNCT
 ,	PUNCT
-tant	PROPN
+tant'	CCONJ
 era	AUX
 stata	AUX
 lavorata	VERB
@@ -21365,8 +21365,8 @@ ci	PRON
 stavo	VERB
 io	PRON
 ,	PUNCT
-c	PRON
-era	AUX
+c'	PRON
+era	VERB
 il	DET
 camino	NOUN
 che	PRON
@@ -21374,7 +21374,7 @@ non	ADV
 tirava	VERB
 piú	PUNCT
 -	PUNCT
-l	PRON
+l’	PRON
 avevano	AUX
 poi	ADV
 rotto	VERB
@@ -21434,7 +21434,7 @@ delle	ADP
 braccia	NOUN
 che	PRON
 non	ADV
-c	PRON
+c'	PRON
 erano	VERB
 piú	PUNCT
 .	PUNCT
@@ -21475,7 +21475,7 @@ Disse	VERB
 che	SCONJ
 allora	ADV
 stava	VERB
-all	DET
+all’	ADP
 Orto	NOUN
 e	CCONJ
 aveva	AUX
@@ -21539,7 +21539,7 @@ tanta	DET
 gente	NOUN
 forestiera	NOUN
 non	ADV
-s	PROPN
+s'	PRON
 era	AUX
 mai	ADV
 vista	VERB
@@ -21548,7 +21548,7 @@ neanche	ADV
 sulle	ADP
 fiere	NOUN
 di	ADP
-quand	PROPN
+quand'	SCONJ
 era	AUX
 giovanotto	NOUN
 .	PUNCT
@@ -21569,8 +21569,8 @@ quanti	PRON
 ,	PUNCT
 dissi	VERB
 ,	PUNCT
-ce	PROPN
-n	X
+ce	PRON
+n'	PRON
 erano	AUX
 ancora	ADV
 sepolti	VERB
@@ -21595,8 +21595,8 @@ duti	ADJ
 .	PUNCT
 
 -	PUNCT
-Ce	PROPN
-n	X
+Ce	PRON
+n'	PRON
 è	VERB
 ,	PUNCT
 -	PUNCT
@@ -21604,7 +21604,7 @@ disse	VERB
 ,	PUNCT
 -	PUNCT
 ce	PRON
-n	X
+n'	PRON
 è	VERB
 .	PUNCT
 
@@ -21669,8 +21669,8 @@ pensai	VERB
 Nuto	PROPN
 gli	PRON
 darebbe	VERB
-dell	ADP
-ignorante	ADJ
+dell'	ADP
+ignorante	VERB
 ,	PUNCT
 del	ADP
 tapino	NOUN
@@ -21680,10 +21680,10 @@ chiederebbe	VERB
 se	SCONJ
 il	DET
 mondo	NOUN
-dev	PROPN
+dev'	AUX
 essere	AUX
 sempre	ADV
-com	PROPN
+com'	SCONJ
 era	AUX
 una	DET
 volta	NOUN
@@ -21730,12 +21730,12 @@ destino	NOUN
 cosí	PROPN
 .	PUNCT
 
-Nuto	PROPN
-l	PRON
+Nuto	NOUN
+l'	PRON
 ha	VERB
 molto	ADV
-quest	DET
-idea	VERB
+quest'	DET
+idea	NOUN
 che	SCONJ
 una	DET
 cosa	NOUN
@@ -21787,7 +21787,7 @@ era	AUX
 andato	VERB
 a	ADP
 far	VERB
-l	DET
+l'	DET
 erba	NOUN
 .	PUNCT
 
@@ -21849,7 +21849,7 @@ parlare	VERB
 ,	PUNCT
 il	DET
 vecchio	NOUN
-s	PRON
+s'	PRON
 incamminò	VERB
 per	ADP
 la	DET
@@ -21873,7 +21873,7 @@ cima	NOUN
 
 Mi	PRON
 parve	VERB
-d	ADP
+d'	ADP
 essere	AUX
 un	DET
 ragazzo	NOUN
@@ -21931,7 +21931,7 @@ sole	NOUN
 ,	PUNCT
 per	ADP
 sentire	VERB
-l	DET
+l'	DET
 afa	NOUN
 e	CCONJ
 il	DET
@@ -21976,7 +21976,7 @@ viti	NOUN
 chiare	ADJ
 e	CCONJ
 un	DET
-bell	ADJ
+bell'	ADJ
 albero	NOUN
 di	ADP
 pesco	NOUN
@@ -21988,7 +21988,7 @@ rosse	ADJ
 come	ADP
 quello	PRON
 che	PRON
-c	PRON
+c'	PRON
 era	VERB
 ai	ADP
 miei	DET
@@ -22018,7 +22018,7 @@ di	ADP
 pesche	NOUN
 ,	PUNCT
 che	PRON
-d	ADP
+d'	ADP
 estate	NOUN
 hanno	VERB
 foglie	NOUN
@@ -22160,7 +22160,7 @@ Io	PRON
 gli	PRON
 dissi	VERB
 che	SCONJ
-c	PRON
+c'	PRON
 era	VERB
 di	ADP
 quelli	PRON
@@ -22195,7 +22195,7 @@ la	DET
 pila	NOUN
 dei	ADP
 marenghi	NOUN
-d	ADP
+d'	ADP
 oro	NOUN
 sul	ADP
 tavolo	NOUN
@@ -22213,7 +22213,7 @@ noi	PRON
 una	DET
 volata	NOUN
 ,	PUNCT
-quand	PROPN
+quand'	SCONJ
 ero	AUX
 ragazzo	NOUN
 ,	PUNCT
@@ -22225,7 +22225,7 @@ cascine	NOUN
 quando	SCONJ
 avevano	AUX
 venduta	VERB
-l	DET
+l'	DET
 uva	NOUN
 o	CCONJ
 il	DET
@@ -22281,7 +22281,7 @@ trovavano	VERB
 morti	VERB
 sul	ADP
 letto	NOUN
-dell	ADP
+dell’	ADP
 osteria	NOUN
 ,	PUNCT
 sotto	ADP
@@ -22352,7 +22352,7 @@ bastardo	NOUN
 .	PUNCT
 
 -	PUNCT
-C	PROPN
+C'	PRON
 è	VERB
 chi	PRON
 li	PRON
@@ -22390,7 +22390,7 @@ Se	SCONJ
 glielo	PRON
 dicono	VERB
 ,	PUNCT
-s	X
+s'	PRON
 arrabbia	VERB
 ,	PUNCT
 -	PUNCT
@@ -22445,7 +22445,7 @@ Cinto	PROPN
 trottandomi	VERB
 avanti	ADV
 ,	PUNCT
-s	X
+s'	PRON
 era	AUX
 seduto	VERB
 sul	ADP
@@ -22455,12 +22455,12 @@ muretto	NOUN
 Dietro	ADP
 le	DET
 albere	VERB
-dall	ADP
+dall'	ADP
 altra	ADJ
 parte	NOUN
 della	ADP
 strada	NOUN
-c	PRON
+c'	PRON
 era	VERB
 il	DET
 Belbo	PROPN
@@ -22510,7 +22510,7 @@ delle	ADP
 albere	VERB
 avevano	VERB
 odore	NOUN
-d	ADP
+d’	ADP
 acqua	NOUN
 corrente	ADJ
 .	PUNCT
@@ -22520,7 +22520,7 @@ Non	ADV
 vai	VERB
 a	ADP
 fare	VERB
-l	DET
+l'	DET
 erba	NOUN
 per	ADP
 i	DET
@@ -22540,7 +22540,7 @@ andava	VERB
 .	PUNCT
 
 Allora	ADV
-m	NOUN
+m'	PRON
 incamminai	VERB
 e	CCONJ
 fino	ADV
