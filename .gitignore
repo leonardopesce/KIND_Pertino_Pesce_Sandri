@@ -6,5 +6,6 @@ etc/
 pyvenv.cfg
 lib64
 dataset/spacy-train
+models/
 
 .vscode/
