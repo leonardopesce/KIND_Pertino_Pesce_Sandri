@@ -7,5 +7,6 @@ pyvenv.cfg
 lib64
 dataset/spacy-train
 models/
+bert-models/
 
 .vscode/
