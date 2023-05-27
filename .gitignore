@@ -1,4 +1,3 @@
-ft_cbow_model.bin
 bin/
 lib/
 share/
@@ -6,7 +5,7 @@ etc/
 pyvenv.cfg
 lib64
 dataset/spacy-train
-models/
+dataset/models/
 bert-models/
 
 .vscode/
